@@ -1,0 +1,227 @@
+/*****************************************************************************/
+/*
+/* Layout
+/*
+/*****************************************************************************/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.content {
+  padding-bottom: 5rem;
+}
+
+/*****************************************************************************/
+/*
+/* Typography
+/*
+/*****************************************************************************/
+
+html {
+  font-size: 12pt;
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 10pt;
+  }
+}
+
+body {
+  color: #444;
+  font-size: 1.25rem;
+  font-family: 'PT Serif', serif;
+  background-color: #fafafa;
+}
+
+.content {
+  line-height: 1.6;
+}
+
+a {
+  color: #44c;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #444;
+}
+
+/*****************************************************************************/
+/*
+/* Components
+/*
+/*****************************************************************************/
+
+hr {
+  max-width: 18rem;
+  margin: 2rem auto;
+}
+
+.site-title {
+  color: #444;
+  font-family: 'Averia Serif Libre', serif;
+  font-size: 4rem;
+  margin-bottom: 0;
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.site-title__prefix {
+  color: #444;
+  display: block;
+  font-size: 2rem;
+}
+
+.site-subtitle {
+  margin: 1rem 0;
+  text-align: center;
+  font-style: italic;
+  font-size: 1rem;
+}
+
+.site-avatar {
+  border-radius: 50%;
+  display: block;
+  margin: 2rem auto;
+
+}
+
+.links {
+  margin: 2rem;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+/*****************************************************************************/
+/*
+/* Index page
+/*
+/*****************************************************************************/
+
+.post-list {
+  margin: 1em 1.5em;
+  text-align: center;
+  list-style: none;
+}
+
+.post-list__item {
+  margin-bottom: 1rem;
+}
+
+.post-list__link {
+  color: #444;
+}
+
+.post-list__link:hover {
+  text-decoration: underline;
+}
+
+.post-list__details {
+}
+
+.post-list .date {
+  color: #666;
+  font-size: 80%;
+  white-space: nowrap;
+}
+
+.post-list .tag {
+  color: #666;
+  font-size: 80%;
+}
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+.post-header {
+  text-align: center;
+  margin: 2rem;
+}
+
+@media (min-width: 700px) {
+  .post-header {
+    margin: 2rem 15%;
+  }
+}
+
+.post-header__date {
+  color: #666;
+  font-size: 80%;
+}
+
+.post > * {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.page li {
+  margin: 0.5rem 0;
+}
+
+pre {
+  background-color: #333;
+  color: white;
+  padding: 0.5rem;
+  font-size: 80%;
+  white-space: pre-wrap;
+}
+
+p > code {
+  padding: 0 0.2rem;
+  border: 1px solid #ddd;
+  background-color: #eef;
+  border-radius: 3px;
+  font-size: 80%;
+}
+
+ul,
+ol {
+  margin-left: 1.9em;
+}
+
+blockquote {
+  border-left: 5px solid #ddd;
+  margin-left: 1em;
+  padding-left: 0.5em;
+  font-size: 90%;
+}
+
+blockquote p {
+  margin: 0.5rem 0;
+}
+
+.post img {
+  max-width: 100%;
+  box-shadow: 10px 5px 40px #444;
+}
+
+iframe {
+  width: 100%;
+}
+
+html {
+  font-size: 12pt;
+}
+
+a.seamless {
+  color: #444;
+  text-decoration: none;
+}
+
+a.seamless:hover {
+  color: #444;
+  text-decoration: none;
+}

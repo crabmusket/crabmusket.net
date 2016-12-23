@@ -1,0 +1,5 @@
+disablePathToLower: true
+languageCode: en-us
+title: the crab & musket
+pygmentsUseClasses: true
+pygmentsCodeFences: true
