@@ -1,12 +1,13 @@
 crabmusket.net {
-	root /root/www/blog/public
+	root /var/www/blog/public
 	tls admin@crabmusket.net
-}
+	gzip
 
-git {
-	repo https://github.com/crabmusket/crabmusket.net
-	branch master
-	path /root/www
-	hook /hooks/github {$GITHUB_WEBHOOK_SECRET}
-	then cd blog && hugo
+	git {
+		repo https://github.com/crabmusket/crabmusket.net
+		branch master
+		path /var/www
+		hook /hooks/github {$GITHUB_WEBHOOK_SECRET}
+		then bash -c "cd blog && hugo -b https://crabmusket.net"
+	}
 }
