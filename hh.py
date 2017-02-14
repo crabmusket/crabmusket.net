@@ -3,7 +3,9 @@ import os
 
 def main():
     prefix = 'hh'
-    items = [render_item(prefix = prefix, **details._asdict()) for details in episodes]
+    username = os.environ['PRIVATE_AUTH_USERNAME']
+    password = os.environ['PRIVATE_AUTH_PASSWORD']
+    items = [render_item(prefix = prefix, username = username, password = password, **details._asdict()) for details in episodes]
     print(render_atom(items))
 
 def render_atom(items, **kwargs):
@@ -11,7 +13,7 @@ def render_atom(items, **kwargs):
 
 def render_item(**kwargs):
     size = os.stat('./{prefix}/{index}.mp3'.format(**kwargs)).st_size
-    url = 'https://crabmusket.net/dc/{prefix}/{index}.mp3'.format(**kwargs)
+    url = 'https://{username}:{password}@crabmusket.net/dc/{prefix}/{index}.mp3'.format(**kwargs)
     return item_template.format(size = size, url = url, **kwargs)
 
 Episode = namedtuple('Episode', 'index, title, description, published, duration')
