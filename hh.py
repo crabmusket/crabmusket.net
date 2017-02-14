@@ -19,9 +19,21 @@ Episode = namedtuple('Episode', 'title, description, published, duration')
 episodes = {
     '34': Episode(
         title = 'Death Throes of the Republic I',
+        description = 'The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system. Money, slaves, ambition, political stalemate and class warfare prove to be a toxic, bloody mix',
+        published = 'Sun, 27 Jun 2010 11:25:00 CET',
+        duration = '01:22:22',
+    ),
+    '35': Episode(
+        title = 'Death Throes of the Republic II',
         description = 'Disaster threatens the Republic, but the cure might be worse than the disease. “The Dan Carlin version” of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.',
         published = 'Sun, 29 Aug 2010 11:25:00 CET',
         duration = '01:35:15',
+    ),
+    '36': Episode(
+        title = 'Death Throes of the Republic III',
+        description = 'Rome’s political violence expands in intensity from riots and assassinations to outright war as the hyper-ambitious generals Marius and Sulla tear the Republic and its constitution apart vying for power and glory.',
+        published = 'Sat, 29 Oct 2010 11:25:00 CET',
+        duration = '01:37:47',
     ),
 }
 
