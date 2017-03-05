@@ -40,7 +40,7 @@ mat <- getLine >>= \x -> return (readMatrix x)
 ```
 
 Since binding is a monadic operation, you can't just bind `getLine` directly to a pure function (like, `getLine >>= readMatrix`).
-The whole expression must return some monadic value, which we when purify using the `<-` notation after the bind has happened.
+The whole expression must return some monadic value, which we then purify using the `<-` notation after the bind has happened.
 
 So I managed to condense my two lines into one line, but it's still fairly ugly, with all that line noise in there.
 We can at least get rid of the lambda by using a [pointfree](http://www.haskell.org/haskellwiki/Pointfree) style:
