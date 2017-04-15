@@ -3,8 +3,6 @@ crabmusket.net {
 	tls admin@crabmusket.net
 	gzip
 
-	basicauth /dc {$PRIVATE_AUTH_USERNAME} {$PRIVATE_AUTH_PASSWORD}
-
 	git {
 		repo https://github.com/crabmusket/crabmusket.net
 		branch master
@@ -12,4 +10,10 @@ crabmusket.net {
 		hook /hooks/github {$GITHUB_WEBHOOK_SECRET}
 		then bash post-push.sh
 	}
+}
+
+pods.crabmusket.net {
+	tls admin@crabmusket.net
+	proxy / localhost:3000
+	gzip
 }
