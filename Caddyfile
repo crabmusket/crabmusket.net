@@ -14,6 +14,8 @@ crabmusket.net {
 
 pods.crabmusket.net {
 	tls admin@crabmusket.net
-	proxy / localhost:3000
 	gzip
+	proxy / localhost:3000 {
+		transparent
+	}
 }
