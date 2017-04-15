@@ -11,6 +11,7 @@ EnvironmentFile=/etc/environment
 User=caddy
 Group=www-data
 
+WorkingDirectory=/var/pods
 ExecStart=/usr/local/bin/podserver
 
 ; Use private /tmp and /var/tmp, which are discarded after caddy stops.
