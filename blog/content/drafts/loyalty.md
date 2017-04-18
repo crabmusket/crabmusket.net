@@ -39,9 +39,9 @@ According to Royce, loyalty was simply this:
 > * and when, thirdly, he expresses his devotion in some _sustained and practical way_.
 
 (Apologies to women who are reading this.
-Royce is not sensitive to his default use of masculine pronouns; nevertheless, he explicitly includes all people in the exposition of his ideas.)
+Royce uses masculine pronouns by default, but he does explicitly include all people in his conception of loyalty.)
 
-Notice first tnat this definition talks about the _cause_ to which a person is loyal, and hasn't really defined what that is.
+Notice first that this definition talks about the _cause_ to which a person is loyal, and hasn't really defined what that is.
 We'll come back to that.
 
 Notice second that this framing of loyalty is quite strong.
@@ -103,15 +103,83 @@ I can't really imagine any stranger would be invested in the present or future s
 But I could very well see them caring and thinking about, for example, faithfulness in exclusive relationships.
 My conduct in my relationship can express my loyalty to that cause.
 
-## Happiness
+## Pause and think
 
 What do you think of Royce's conception of loyalty?
 Can you identify things you're loyal to?
 Things that inspire you to act, things that take up your time and things that invade your thoughts while you're in the shower or trying to sleep?
 
 I can think of many things that people in my life are loyal to.
-Veganism, AFL, the preservation of all sorts of history (from aviation to pop culture), queer rights, the treatment of diabetes, and the human rights of refugees are just some of them.
-You pursue these things earnestly, actively, and in companionship or communication with others.
+Veganism, AFL, the preservation of history (familial, pop cultural, aviatic and plenty of other kinds), queer rights, the treatment of diabetes, and the human rights of refugees are just some of them.
+You (that's you, _plural_) pursue these things earnestly, actively, and in companionship or communication with others.
+
+## Happiness
+
+Okay, so after all this: what's the _point_ of these ideas about loyalty?
+Royce had several goals in mind for his original series of lectures, and I have my own reasons for wanting to pass on what I think I've learned.
+The one I want to talk about right now is this: according to Royce, loyalty is not just the most reliable, but the _only_ way to live a satisfied life.
+
+It's a bold claim, and it's extraordinary to think that _any_ general principle could reliably lead to a satisfying life for each specific person.
+I myself am not totally convinced.
+But Royce's words have persistently resurfaced in my head when people talk about their ideas of happiness.
+It appears that many ideas of the good life, expressed by so many different people, are expressions of Royceian loyalty.
+
+Before I dig into some examples of this, let's look at Royce's own explanation of why loyalty is so great at making us happy.
+In short: only loyalty satisfies _both_ our individualistic and our social needs, and does so despite the random fortune of life.
+
+When I talked about the definition of loyalty above, I described how individualism was the foundation of the idea: how your choice of loyalty must be rooted in your individuual desires.
+Royce goes further in describing how loyalty interacts with individualism.
+
+* plan of life (but not a literal plan, because that can fail)
+* escape from default options society presents to you/expects of you
+
+* social needs
+
+* random fortune
+
+What cements loyalty as the reliable method of living your life is its robustness in the face of chance.
+It is perfectly possible, even easy, to come up with a _plan of life_ that is both an expression of your individualism, and includes plenty of social outcomes.
+Here's one I prepared earlier: "I will run a successful, profitable company that employs more than a handful of people and has a net positive impact on the world."
+It's a fine ambition for many reasons.
+It fulfils one's desire to be striking out on a course of one's choosing.
+It binds one together with many others - employees, customers, cofounders, and mentors.
+
+But it can very quickly come apart.
+Entrepreneurship (in this example) is famous for its high rates of failure.
+I have known people who have failed for many reasons.
+Funding wasn't there when it was needed.
+Their market validation was weaker than it first seemed.
+They were acquired.
+They weren't acquired.
+Stress and depression overcame them.
+Cofounders left, or employees lost faith.
+One big client fell through.
+
+This obviously doesn't just apply to businesses.
+Our lives are governed by chance in more ways then we feel comfortable admitting.
+Even if luck is not random, and only appears so because it is directed by the will of God beyond our understanding, the things we want don't always come to be.
+
+But: loyalty is resilient to failure.
+It is resilient because it directs one's attention towards enterprises that are not bound up in the fate of one person, or even one moment in history.
+You might fail to create a successful business that, for example, revolutionises the rental market and solves the housing affordability crisis.
+But if your life's goal is acting loyally towards that cause, then your failure doesn't matter.
+It doesn't matter because you will keep trying.
+And it doesn't matter because the cause does not depend on you alone.
+You are in community with thousands of others who believe in the same cause, and will strive just as hard as you do towards realising it.
+The cause is bigger than you alone, and it will outlive you.
+
+## Seabin
+
+"What does success look like for you?"
+"..."
+"Seabin's not going to save the world, is it?"
+"It's definitely not going to save the world. But it's a start, it's a step in the right direction of saving the world."
+
+## Disloyalty
+
+
+
+## Lack and longing
 
 Some people aren't loyal to any causes in particular.
 Maybe you're choosing to pursue things Royce would not count as causes; or maybe you'd love to, but haven't found any causes for one reason or another.
