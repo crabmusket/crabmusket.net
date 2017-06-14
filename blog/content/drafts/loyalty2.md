@@ -38,7 +38,7 @@ Let me quickly describe the scope of what I want to talk about in this article, 
 - I'll lay out the benefits Royce sees in the loyal life,
 - and then I'll introduce some examples, since his book sadly has very few of them.
 
-Each time I quote Royce, I will be referring to the text of the [online version](https://archive.org/details/philosophyloyal00roycuoft) of _The Philosophy of Loyalty_[^royce].
+Each time I quote Royce, I will be referring to the text of the [online version](https://archive.org/details/philosophyloyal00roycuoft) of _The Philosophy of Loyalty_.
 
 ## 1. The "grand philosophical exception"
 
