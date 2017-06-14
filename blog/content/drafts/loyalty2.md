@@ -1,0 +1,334 @@
+---
+date: 2017-04-21T05:00:00Z
+tags: [loyalty, philosophy, academic]
+title: 'The Rehabilitation of Loyalty'
+slug: the-rehabilitation-of-loyalty
+---
+
+"Loyalty" reminds me of cardboard punch-cards with pictures of steaming coffee cups or Subway sandwiches.
+It reminds me of the soldiers of World War I, naïvely throwing their lives down for the cynical game of statecraft.
+It reminds me of simple-minded canine faithfulness.
+
+Loyalty had a similarly poor reputation a hundred years ago.
+In 1907, Josiah Royce gave a series of lectures at Harvard University, later collected into a book called _The Philosophy of Loyalty_.
+In those lectures, he set out to _rehabilitate_ the idea of loyalty from its unsavoury historical baggage.
+He particularly singles out the conflation of loyalty with war and soldiering (which he calls "that ancient and disastrous association").
+
+I came across Royce's ideas by referral from another book[^progress], and became fascinated with his particular definition of loyalty.
+Not just because of the arguments he put forward in his lectures, but because those ideas kept echoing back at me when I _wasn't_ reading his work.
+My thoughts and feelings, and those of others, frequently seemed to fit into the structure Royce explained.
+Conversations going on in our (inter)national public space seemed to be subconsciously reflecting his ideas.
+
+I figured this had to be something worth exploring.
+So I've decided to present Royce's arguments, condensing them into a briefer form to make them accessible.
+I want to see if these ideas resonate with other people, or if I was just projecting my own interest onto the discussions around me.
+I want to begin conversations.
+I want to bring a new idea -- or rather, an old one -- into our mental toolbox so that we can recognise when it applies to people and events around us.
+I want us to be fluent in the talk of loyalty.
+
+[progress]: Christopher Lasch's _The True and Only Heaven: Progress and its Critics_, a mind-bending opus of non-binary political and philosophical history
+
+## 0. Signposts
+
+Let me quickly describe the scope of what I want to talk about in this article, and in what order I'll do it.
+
+- First I'll quickly walk you through Royce's broad philosophical framework, of which loyalty is the central piece.
+  I won't cover it in detail, and I don't understand it all yet myself, but I think it's valuable to get a sense of Royce's intellectual context.
+- Next we'll explore Royce's "pragmatic" definition of loyalty (as opposed to his later, more philosophical definition, which I won't cover), and break down its three requirements.
+- I'll lay out the benefits Royce sees in the loyal life,
+- and then I'll introduce some examples, since his book sadly has very few of them.
+
+Each time I quote Royce, I will be referring to the text of the online version of _The Philosophy of Loyalty_[^royce].
+
+[royce]: https://archive.org/details/philosophyloyal00roycuoft
+
+## 1. The "grand philosophical exception"
+
+The Stanford Encyclopaedia of Philosophy calls Royce the "grand philosophical exception" to other writers on loyalty[^stanford].
+Despite this (or maybe because of it), they seem reluctant to quote him too often.
+Maybe the extent to which Royce made loyalty into a universal philosophical framework is embarrassing!
+
+Don't be concerned if these ideas don't yet make much sense.
+Hopefully this article, where I'll attempt to explain the first part of this grand philosophy, will make the latter parts more understandable.
+At the very least, you may start to see why Stanford gave him such an impressive epithet.
+
+### Idea one: individual loyalty to causes
+
+Royce believed that loyalty -- the "willing and practical and thoroughgoing devotion by a person to a cause" -- was the most reliable way to live a happy, satisfied and worthwhile life.
+He writes that the loyal "are the only human beings who can have any reasonable hope of genuine success."
+But more than that, he also saw it as the _only virtue_, the foundation on top of which all other good behaviours and attitudes must be based.
+
+What constitutes loyalty, and what constitutes a valid cause, I will try to explain in this article.
+
+### Idea two: universal loyalty to loyalty
+
+That is, individuals using loyalty itself -- "the one cause which is worthy of all men's devotion" -- as a guiding principle to discern between good and bad causes.
+Royce believed that acting on this principle would lead to a just society, one that was harmonious in conscience, if not in the choice of each person's individual causes.
+A _good_ cause according to this view is one that is enabling, rather than prohibiting, others' ability to act loyally.
+
+This idea is complicated by Royce's unwillingness to judge the loyalties of others.
+I won't talk about loyalty to loyalty, or discerning loyalty in others, in this article.
+
+### Idea three: loyalty is the belief in absolute truth
+
+Royce develops his theory of loyalty into an all-encompassing ideology that stood opposed to the pragmatism espoused by his good friend William James and others[^james].
+He argues that a "spiritual unity of life, which transcends the individual experience of any man, must be real", because loyalty "is a service of causes that, from the human point of view, appear superpersonal."
+
+This transcendence gives loyalty its power.
+It also tints loyalty with a religious colour which, he writes, is viewed by many of his colleagues with "amusement, and sometimes with a notable impatience."
+
+### Community
+
+Royce went even further in his philosophy of community, described here by Stanford[^community]:
+
+> Finally, beyond the actual communities that we directly encounter in life there is the ideal “Beloved Community” of all those who would be fully dedicated to the cause of loyalty, truth and reality itself.
+
+Whether or not you subscribe to his metaphysics, I hope you will be able to agree that Royce's vision of practical and earthly loyalty are interesting.
+My own hope is that understanding loyalty would help me live a more fulfilling life and, just maybe, to help others live better in community together.
+
+Let's now look in depth at **idea one**: Royce's concept of loyalty.
+
+[stanford]: https://plato.stanford.edu/entries/loyalty/ section 1.1
+[james]: Pragmatism being the idea that basically, things are only true as far as they are useful. You can read more about William James [here](https://plato.stanford.edu/entries/james/), but suffice it to say he was an eminent philosopher, most known as part of the ironically-named "Metaphysical Club" (whose members believed in no metaphysical reality, as far as I can tell)
+[community]: https://plato.stanford.edu/entries/royce/ section 2.3.2
+
+## 2. Loyalty redefined
+
+The first lecture of Royce's series introduces an effectively _new_ definition of the idea of loyalty.
+Creating a new concept but reusing the word "loyalty" might be considered cheating by some -- but maybe this process of _rehabilitation_ must be allowed some leeway.
+
+I cannot word the definition better than Royce himself (though I did add the bulleted formatting and emphases):
+
+> Loyalty shall mean, according to this preliminary definition:
+> The willing and practical and thoroughgoing devotion by a person to a cause.
+> A man is loyal when,
+>
+> * first, he has some _cause_ to which he is loyal;
+> * when, secondly, he _willingly_ and _thoroughly_ devotes himself to this cause;
+> * and when, thirdly, he expresses his devotion in some _sustained and practical way_.
+
+(Apologies to women who are reading this.
+Royce uses masculine pronouns by default, though he does explicitly include all people in his thesis.)
+
+This definition, without elaboration, already has several striking features that distinguish it from other ways of thinking about loyalty.
+From the bottom to the top:
+
+### Sustained and practical devotion
+
+Royce is firm: you cannot be loyal in sentiment, only in action.
+He writes that "loyalty never means the mere emotion of love for your cause".
+Love for a cause is a fine emotion to have, and _should_ come hand-in-hand with genuine loyalty to that cause.
+But action is necessary to create the very specific benefits Royce sees coming from loyalty.
+
+### Will and individualism
+
+The stipulation that one must be _willingly_ and _thoroughly_ devoted proscribes such motivations as 'I was just following orders'.
+It also ensures that we don't mistake the effects of coercion for true loyalty.
+
+But focusing on the will of the loyal individual is important for a deeper reason: individualism.
+While strong loyalty might seem like a collectivist ideal, Royce begins with the individuality of each human:
+
+> Yes, the entire and infinite visible world, to be even more exact,
+> seems to each of you to have its centre about where the bridge of your own nose chances to be.
+
+He goes to great lengths to emphasise that loyalty preserves and enhances this personal autonomy, rather than erasing it:
+
+> Your only recourse [from the problem of deciding what to do with your individualistic independence]
+> is to assert your autonomy by choosing a cause,
+> and by loyally living, and, when need be, dying for that cause.
+> Then you will not only assert yourself by your choice of a cause,
+> but express yourself articulately by your service.
+> The only way to be practically autonomous is to be freely loyal.
+
+I'll discuss a little further down the reason Royce thinks this outcome is good for people.
+Notice, for now, that Royce embraces the idea that free expression (and, even further, _articulate_ expression!) is important to the human psyche.
+But sees loyalty as _the_ way in which to achieve true expression.
+
+After a lengthy discussion of several individualistic rebuttals of his ideas, Royce ends with this cheerful exhortation:
+
+> I then say, be indeed autonomous. Be an individual.
+> But for Heaven's sake, set about the task.
+
+What is the task?
+The task is the _cause_:
+
+### The superpersonal cause
+
+The most significant clause of Royce's rehabilitated definition of loyalty relates to _causes_.
+I have left it to last because it is so central to Royce's idea of loyalty, but is more novel and surprising than the other two parts.
+
+Royce discusses causes at great length.
+The three distinguishing features of a cause which can be said to inspire true loyalty are:
+
+- The cause must have _personal_ (or selfish) value to you, the loyal follower.
+  Royce cannot conceive of loyalty to a cause that the devotee sees as worthless.
+  That would be weird.
+- The cause must _also_ have value _outside_ your own self.
+  It must be "objective" as he puts it, by potentially having value to other people.
+  Why? Because:
+- The cause must concern others; it must be _social_, so that shared loyalty can bind us together with others.
+  The possibility of having "fellow-servants" before, beside and beyond us fulfils a deep social need.
+
+The word Royce uses to sum up these ideas is "superpersonal".
+Causes are not merely _personal_, having value only to one person, and they are not _interpersonal_, being shared privately between a handful of people.
+A cause to which one can be truly loyal must be superpersonal, possessing the capacity to unite many people together in a shared mission.
+
+This changes our understanding of relationships that we colloquially think of as "loyal".
+For example: under Royce's definition, I cannot be loyal to a friend.
+My relationship with my friend is interpersonal, not superpersonal: I cannot expect that a stranger I meet on the street might be interested in acting with thoroughgoing and practical devotion in service of our relationship.
+
+This is not to say that I should not act with caring tenderness towards them, or be dependable and reliable, or consider their interests above my own or others'.
+Royce would argue that when I act in these good ways towards me friend, I am pursuing my loyalty to the superpersonal cause of sincere friendship.
+The way I must act upon this loyalty is by treating my friend well, but it is not to them that I am loyal.
+
+This is the grand philosophical structure that Royce built around loyalty: it becomes the motivating force behind all other virtues we enact in our daily lives.
+It would simplify our complex moral environment, he thought, if we could lay down this cornerstone of moral life and then build everything else on top of it.
+
+But not only that: loyal living would benefit each person individually, he insisted.
+How?
+
+## 3. The loyal life
+
+So far I've introduced Royce's ideas without talking much about why anyone might find them worthwhile.
+Royce believed that loyalty is the only _reliable_ way to personal satisfaction in life.
+The two most significant components of this loyal life are its defeat of the problem of individualism, and its resilience against failure and disappointment.
+
+### The problem of individualism
+
+Beginning from the assumption of individualism that Royce takes as a fundamental psychological truth, he describes a problem every thinking person faces.
+We all strive to lead lives of significance -- to ourselves, or to the wider world.
+But how do we discern what that _is_?
+How do we know what would make us happy -- not just this instant, but when we lie on that imagined deathbed and review our lives?
+
+Our hedonistic individual desire is no reliable guide to long-term happiness.
+And when we imitate one of the many paths to happiness suggested by the society around us, we don't have sufficient room for our individual expression.
+Royce sees these two forces -- individual desires, and external authority -- being constantly in conflict, until:
+
+> Neither within not without, then, do I find what seems to me a settled authority -- a settled and harmonious plan of life -- unless, indeed,
+> one happy sort of union takes place between the inner and the outer,
+> between my social world and myself, between my natural waywardness and the ways of my fellows.
+
+This union, he says, is when "mere social conformity" becomes what he describes as true loyalty.
+Solved, for the loyal, is the problem of knowing how to balance our desires with the authorities we are brought up to respect, and continue to be pressured by.
+They are freed from doubt and indecision, and can act confidently in service of their cause.
+
+### Loyalty in failure
+
+Plutarch wrote this about the death of Gaius Marius, eminent statesman and general of the Roman Republic[^plutarch]:
+
+> And therefore though he had lived to be seventy years old,
+> and was the first man to be elected consul for the seventh time,
+> and was possessed of a house and wealth which would have sufficed for many kingdoms at once,
+> he lamented his fortune, in that he was dying before he had satisfied and completed his desires.
+
+The folklore, literature and history of humankind is full of stories of people whose ambition consumed them -- whether in success, or in failure.
+Ambition might lead us to attempt great things, but only a few of us will succeed at them.
+And even those who do, like Marius, are left wanting more.
+Sometimes the desire for achievement causes us to go _too far_, wading like Macbeth through rivers of blood.
+Sometimes sheer luck prevents the execution of the most carefully laid plans.
+
+Royce sees loyalty as an escape from the prison of great ambition, and from the vagaries of fortune that can foil even modest plans.
+There are two ways this comes about:
+
+1. The activity of loyally pursuing a cause is its own reward.
+   The act of working towards a goal one sees as self-evidently worthwhile is satisfying.
+   The binding together of one's passion and effort with other people involved in the same cause is invigorating.
+2. The responsibility for achieving the cause's aim does not rest on the individual.
+   When one acts together with others, each is absolved of their individual failures.
+   When "the show must go on", the lead actor is empowered by the knowledge that their understudy has been loyally waiting in the wings, prepared for the moment when they might be needed, so that the show _can_ go on.
+   The revolutionary is empowered to act boldly, knowing that should they be imprisoned, others will step into their role and continue the fight.
+
+So the loyal can obtain satisfaction both in the day-to-day living of their lives, and in the security of being part of an ongoing movement whose success is not limited by their own effort[^lostcauses].
+
+This conclusion doesn't remove the potential for movements to have leaders.
+Royce believed charismatic leaders were important (if not sufficient) for inspiring true loyalty, especially in a cause's early days.
+But it does support the modern view of history rather than the "great man" theory of the past.
+Feats great and small are not accomplished by the efforts of individuals alone, but by hosts of loyal contributors, some of them being leaders and some followers.
+
+[plutarch]: This story, apocryphal or not, is related in [The Life of Marius](http://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/lives/marius*.html).
+[lostcauses]: Royce actually spends many pages talking about _lost causes_, and sees them as fulfilling am important need in the human psyche _despite_ being impractical. I cannot yet clearly present that line of argument, so I haven't.
+
+### The limits of loyalty
+
+You might have noticed by now that I've been uncritical in presenting this vision of the loyal life.
+My presentation of loyalty has focused on its ideal form, rather than the messy and compromised version we might see in our own lives.
+There are many unanswered questions.
+I will attempt to forestall (or maybe prompt) a few of these with some brief apologia before continuing:
+
+- While loyalty may be good for the loyal, it may of course be harmful for others who they are opposed to.
+  (In other words, yes, you _can_ be a loyal Nazi. Some writers on loyalty disagree with this.)
+  We haven't looked at what Royce thinks makes a _good_ cause, only what makes a _superpersonal_ cause.
+  Loyalty to loyalty itself explains how loyalty might create a better society, but that's more than I can cover in one article.
+- Loyalty is not blind.
+  Surrendering one's individual will to the service of a cause doesn't have to mean surrendering the intellect as well.
+  Royce encourages us to actively reflect on the legitimacy of the causes we follow, and to reject causes that have ceased to be worthy.
+- One may have many competing loyalties, and a great deal of difficulty might come from deciding between them, if they have conflicting demands.
+  However, the loyal are comforted knowing they are choosing between good options.
+- Loyalty needn't be sworn, or even conscious, for us to obtain its benefits.
+  Many of us live lives that exemplify loyalty's most high ideals, without ever having heard of Royce or his project of rehabilitation.
+  But hopefully, having been introduced to the concept, we will recognise it more easily, and have more chance of achieving it.
+
+## 4. Examples
+
+Royce tends to use examples that even he acknowledges are stereotypical.
+
+> The devotion of a patriot to his country, when this devotion leads
+> him actually to live and perhaps to die for his country;
+> the devotion of a martyr to his religion;
+> the devotion of a ship's captain to the
+> requirements of his office when, after a disaster,
+> he works steadily for his ship and for the
+> saving of his ship's company until the last
+> possible service is accomplished, so that he is
+> the last man to leave the ship, and is ready if
+> need be to go down with his ship.
+
+He goes in-depth with one political example: William Lenthall, the Speaker of the House in 1642, who King Charles I famously [demanded][five members] reveal the locations of five dissenting parliamentarians.
+Lenthall's response, according to Royce, was this:
+
+> Your Majesty, I am the Speaker of this House, and, being such, I have neither eyes to see nor tongue to speak save as this House shall command; and I humbly beg your Majesty's pardon if this is the only answer that I can give to your Majesty.
+
+For Royce, this refusal to compromise the requirements of the office of Speaker of the House epitomised the "personal dignity greater than kingship, the dignity that any loyal man, great or humble, possesses whenever he speaks and acts in the service of his cause."
+
+Loyalty in politics is a tricky case, because the term so often means sheer faithfulness to the agenda of an individual or party.
+While loyalty to a political party can satisfy Royce's criteria, one is obliged to continually assess whether the party is a worthy cause.
+It may be that the 'party line' becomes too self-serving to remain truly superpersonal.
+
+[This article](http://www.slate.com/articles/news_and_politics/the_big_idea/2008/11/loyalty.html) paints a perfect picture of where loyalty in politics can go astray:
+
+> My favorite illustration of the misguided notion of loyalty that ran rife through the Bush years was the testimony of White House Political Director Sara Taylor to the Senate committee investigating the firings of U.S. attorneys deemed insufficiently loyal. Declining to answer a question, Taylor said, "I took an oath to the president."
+>
+> "Did you mean, perhaps," Leahy asked, "that you took an oath to the Constitution?"
+
+Can you be loyal to a company?
+What about a brand?
+Surely if a nation-state is a fitting object of loyalty, then a large company, which you may serve as employee or customer, could also satisfy the demands of loyalty.
+In my experience, startups often elicit loyalty, especially from founders and early employees.
+This is more often loyalty to an abstract or ambitious cause -- the clichéd potential of changing the world -- than to the company itself.
+
+As a related but contrasting example, I recently saw part of a documentary on the [Seabin project](http://seabinproject.com/).
+The Seabin is a small device that floats in a harbour and 'eats' rubbish drifting on the surface of the water, storing it for later collection.
+The interviewer asked: "What does success look like for you? ... Seabin's not going to save the world, is it?"
+Pete, the device's inventor, replied:
+
+> It's definitely not going to save the world. But it's a start, it's a step in the right direction of saving the world.
+
+The modesty of this statement belies the passionate way he pursued the project, putting years of his life and almost all his money towards its success.
+At the same time as acknowledging that Seabin alone will not save the environment, he can be satisfied pursuing it.
+He is _part of the solution_, and believes that if others also contribute their parts, then together we might arrive at a _whole solution_.
+
+Regretfully, I've only introduced these examples in their shallowest forms.
+But I hope they have been able to help you imagine loyalty more concretely.
+
+[five members]: https://en.wikipedia.org/wiki/Five_Members
+
+## 5. Post-summary
+
+Before I close, it may be worth mentioning an [existing exploration of Roycean loyalty](http://www.artofmanliness.com/2009/10/25/on-manly-loyalty) that appeared on _The Art of Manliness_ in 2009.
+It covers similar ground to this article, but in a rather more _manly_ fashion.
+
+I have tried to explain Josiah Royce's unique concept of loyalty, and why it is interesting to me, in the hope that it might be interesting to you.
+True loyalty, Royce claimed, is a voluntary, active devotion to a superpersonal cause.
+It helps us conquer our conflicting desires, and gives us a social purpose that fulfils deep needs in our being.
+
+If you have a response to what I've written -- positive, negative, technical, or confused -- I would be very grateful to hear it.

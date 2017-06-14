@@ -33,7 +33,7 @@ According to Royce, loyalty was simply this:
 
 > The willing and practical and thoroughgoing devotion by a person to a cause.
 > A man is loyal when,
-> 
+>
 > * first, he has some _cause_ to which he is loyal;
 > * when, secondly, he _willingly_ and _thoroughly_ devotes himself to this cause;
 > * and when, thirdly, he expresses his devotion in some _sustained and practical way_.
@@ -210,3 +210,56 @@ Things I would like to express
 
 [^ewin]: R. E. Ewin, quoted in the Stanfoed Encyclopedia of Philosophy. https://plato.stanford.edu/entries/loyalty/
 [^value]: The the economic value, for example, of jobs I create if I am a successful business owner doesn't count. Anybody else's career could create that value.
+
+# snippet 1
+
+We usually imagine that we can be loyal to, for example, a friend, a parent, or even a pet.
+Royce insists instead that true loyalty, and the benefits it brings, must be to a cause.
+It must be expressed in our actions towards other people, but the loyalty itself is to the cause.
+My relationship with my best friend is not superpersonal; it's merely interpersonal between them and myself.
+
+We don't usually say that someone is loyal to their career, or to the pursuit of wealth or fame or influence.
+But many people act with "willing and practical and thoroughgoing devotion" to these things.
+Royce would warn us away from striving for goals like these; he would think them unlikely to lead to a satisfied life, for starters.
+
+Now, none of what I've said is to suggest that acting with practical devotion to our friends, family, pets or jobs is a bad thing.
+It is just that Royce suggests doing so without knowledge of loyalty will be insufficient to reliably satisfy us.
+We must, he argues, be aware of and appeal to higher ideals, even in our private pursuits and relationships.
+If this is starting to sound religious, well -- remember the "grand philosophical exception"!
+But suspend your "amusement, and notable impatience" and let me explain why Royce thought we should live this way.
+
+# snippet 2
+
+Our hedonistic individual selves have passions and desires, which at any moment might pull us in one direction or another.
+Royce believes that satiating these desires, while possible in the short term, cannot make us happy in the long term.
+As well as these hedonistic individual desires, we also have an intense need for relationships and social interaction.
+Society provides us with many pre-determined paths to follow which bind us together with others -- whether through, public service, marriage and family life, career advancement TODO.
+But these social programs of life can be insensitive to individual differences and needs.
+They tend to _average out_ human experiences, rather than catering to each of us uniquely.
+
+Loyalty, Royce maintains, is a 'best of both worlds' that satisfies both needs: the need to be an individual and satisfy individualistic desires, and the need to be part of society.
+Through one's choice of causes, one expresses their individual tastes, values, principles and desires.
+But it is through association and _thoroughgoing action_ in service of a cause that is _superpersonal_ that we will join together with others and create lasting significance.
+
+# snippet 3
+
+At times, writing this article has felt uncomfortably close to an apologia for nationalism.
+
+If you'll permit me to generalise for a minute: I believe this is because movements like nationalism tap into all the things that really do make loyalty good for the loyal.
+The problem, of course, is that these causes can divide us, making open the secret chasms of disagreement and alienation that lie between people.
+When we selfishly pursue our causes to extremes, the conflicts create suffering.
+
+As I hinted in my overview of Royce's philosophy, he is very aware of this.
+(TODO: "a man has a cause, but I do not yet say he has a good cause")
+The test of which causes are _good_ becomes nearly self-referential: a good cause is one that does not prevent anyone else from pursing loyalty to their own good cause.
+
+Broadly, then, killing others cannot be a good cause, because it takes away their ability to pursue their own loyal lives.
+However, wars do become possible between armies of willing participants, where all involved believe truly in their cause, and are willing to die for it [^war].
+Imprisonment of criminals is a tricky case -- it takes away the ability of criminals to pursue their own _bad_ causes, but also good ones.
+
+And so on.
+The arguments on all sides, about many issues, become complex.
+But at the core of them all is the right of every human to pursue loyalty to their causes, freely chosen.
+I think that's worth supporting.
+
+[war]: If this sounds like a dangerously romantic view of war, well, it probably is. I doubt that many if any wars in the world's history have truly been as innocent as an idealised loyal war. But Royce's ideas can be applied to improve the state of disloyal warfare for as long as it must exist (for example, by promoting the principles of limited war).
