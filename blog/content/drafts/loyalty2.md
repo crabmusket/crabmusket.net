@@ -320,7 +320,7 @@ But I hope they have been able to help you imagine loyalty more concretely.
 
 [five members]: https://en.wikipedia.org/wiki/Five_Members
 
-## 5. Post-summary
+## 5. Coda
 
 Before I close, it may be worth mentioning an [existing exploration of Roycean loyalty](http://www.artofmanliness.com/2009/10/25/on-manly-loyalty) that appeared on _The Art of Manliness_ in 2009.
 It covers similar ground to this article, but in a rather more _manly_ fashion.
