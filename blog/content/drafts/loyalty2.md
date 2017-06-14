@@ -26,7 +26,7 @@ I want to begin conversations.
 I want to bring a new idea -- or rather, an old one -- into our mental toolbox so that we can recognise when it applies to people and events around us.
 I want us to be fluent in the talk of loyalty.
 
-[progress]: Christopher Lasch's _The True and Only Heaven: Progress and its Critics_, a mind-bending opus of non-binary political and philosophical history
+[^progress]: Christopher Lasch's _The True and Only Heaven: Progress and its Critics_, a mind-bending opus of non-binary political and philosophical history
 
 ## 0. Signposts
 
@@ -38,9 +38,7 @@ Let me quickly describe the scope of what I want to talk about in this article, 
 - I'll lay out the benefits Royce sees in the loyal life,
 - and then I'll introduce some examples, since his book sadly has very few of them.
 
-Each time I quote Royce, I will be referring to the text of the online version of _The Philosophy of Loyalty_[^royce].
-
-[royce]: https://archive.org/details/philosophyloyal00roycuoft
+Each time I quote Royce, I will be referring to the text of the [online version](https://archive.org/details/philosophyloyal00roycuoft) of _The Philosophy of Loyalty_[^royce].
 
 ## 1. The "grand philosophical exception"
 
@@ -88,9 +86,9 @@ My own hope is that understanding loyalty would help me live a more fulfilling l
 
 Let's now look in depth at **idea one**: Royce's concept of loyalty.
 
-[stanford]: https://plato.stanford.edu/entries/loyalty/ section 1.1
-[james]: Pragmatism being the idea that basically, things are only true as far as they are useful. You can read more about William James [here](https://plato.stanford.edu/entries/james/), but suffice it to say he was an eminent philosopher, most known as part of the ironically-named "Metaphysical Club" (whose members believed in no metaphysical reality, as far as I can tell)
-[community]: https://plato.stanford.edu/entries/royce/ section 2.3.2
+[^stanford]: https://plato.stanford.edu/entries/loyalty/ section 1.1
+[^james]: Pragmatism being the idea that basically, things are only true as far as they are useful. You can read more about William James [here](https://plato.stanford.edu/entries/james/), but suffice it to say he was an eminent philosopher, most known as part of the ironically-named "Metaphysical Club" (whose members believed in no metaphysical reality, as far as I can tell)
+[^community]: https://plato.stanford.edu/entries/royce/ section 2.3.2
 
 ## 2. Loyalty redefined
 
@@ -238,15 +236,15 @@ There are two ways this comes about:
    When "the show must go on", the lead actor is empowered by the knowledge that their understudy has been loyally waiting in the wings, prepared for the moment when they might be needed, so that the show _can_ go on.
    The revolutionary is empowered to act boldly, knowing that should they be imprisoned, others will step into their role and continue the fight.
 
-So the loyal can obtain satisfaction both in the day-to-day living of their lives, and in the security of being part of an ongoing movement whose success is not limited by their own effort[^lostcauses].
+So the loyal can obtain satisfaction both in the day-to-day living of their lives, and in the security of being part of an ongoing movement whose success is not limited by their own effort[^lost causes].
 
 This conclusion doesn't remove the potential for movements to have leaders.
 Royce believed charismatic leaders were important (if not sufficient) for inspiring true loyalty, especially in a cause's early days.
 But it does support the modern view of history rather than the "great man" theory of the past.
 Feats great and small are not accomplished by the efforts of individuals alone, but by hosts of loyal contributors, some of them being leaders and some followers.
 
-[plutarch]: This story, apocryphal or not, is related in [The Life of Marius](http://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/lives/marius*.html).
-[lostcauses]: Royce actually spends many pages talking about _lost causes_, and sees them as fulfilling am important need in the human psyche _despite_ being impractical. I cannot yet clearly present that line of argument, so I haven't.
+[^plutarch]: This story, apocryphal or not, is related in [The Life of Marius](http://penelope.uchicago.edu/Thayer/e/roman/texts/plutarch/lives/marius*.html).
+[^lost causes]: Royce actually spends many pages talking about _lost causes_, and sees them as fulfilling am important need in the human psyche _despite_ being impractical. I cannot yet clearly present that line of argument, so I haven't.
 
 ### The limits of loyalty
 
