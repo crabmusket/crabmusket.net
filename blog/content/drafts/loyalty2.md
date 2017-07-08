@@ -9,11 +9,11 @@ The word "loyalty" makes me think of flimsy punch-cards printed with arrays of t
 It reminds me of the soldiers of World War I, naïvely believing in something more than the cynical game of geopolitics.
 It describes simple-minded faithful canines, and those who toe the party line.
 
-A hundred years ago, loyalty had just as poor a reputation.
+Even a hundred years ago, loyalty had a poor reputation.
 In 1907, Josiah Royce set out to _rehabilitate_ the idea of loyalty from its unsavoury historical baggage.
 He particularly regretted the "ancient and disastrous association" between loyalty and the nationalistic war-spirit.
 In a series of lectures at Harvard University, he laid out his thesis.
-His aim was to prove that true loyalty was the source of _all_ the familiar virtues.
+His aim was to prove that true loyalty was the source of _all_ other virtues.
 
 <center>
 <img src="/images/royce.png" style="max-width: 75%; border-radius: 50%; margin: 2rem;" width="360px" alt="Josiah Royce" title="Image: public domain, the Royce Society">
