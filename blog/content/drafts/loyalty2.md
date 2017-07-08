@@ -15,6 +15,10 @@ He particularly regretted the "ancient and disastrous association" between loyal
 In a series of lectures at Harvard University, he laid out his thesis.
 His aim was to prove that true loyalty was the source of _all_ the familiar virtues.
 
+<center>
+<img src="/images/royce.png" style="max-width: 75%; border-radius: 50%; margin: 2rem;" width="360px" alt="Josiah Royce" title="Image: public domain, the Royce Society">
+</center>
+
 I came across Royce's ideas in another book[^progress], and became fascinated with his specific definition of loyalty.
 The ideas he proposed kept echoing back at me.
 Conversations in the media and in our public spaces hinted at a desire for loyalty.
@@ -27,10 +31,6 @@ I want to begin conversations.
 
 I want to bring a new idea -- or rather, an old one -- into our mental toolbox so that we can recognise when it applies to people and events around us.
 I want us to be fluent in the talk of loyalty.
-
-<center>
-<img src="/images/royce.png" style="border-radius: 50%; margin: 2rem;" width="360px" alt="Josiah Royce" title="Image: public domain, the Royce Society" height="360px">
-</center>
 
 [^progress]: Christopher Lasch's _The True and Only Heaven: Progress and its Critics_, a mind-bending opus of non-binary political and philosophical history.
 
