@@ -27,7 +27,7 @@
 
 html {
   font-size: 12pt;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 
 @media (max-width: 768px) {
