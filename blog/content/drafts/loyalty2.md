@@ -24,8 +24,13 @@ I figured this had to be something worth exploring.
 So I've decided to present Royce's arguments, condensing them into a briefer form to make them accessible.
 I want to see if these ideas resonate with other people -- or if I was just projecting my own interest onto the discussions around me.
 I want to begin conversations.
+
 I want to bring a new idea -- or rather, an old one -- into our mental toolbox so that we can recognise when it applies to people and events around us.
 I want us to be fluent in the talk of loyalty.
+
+<center>
+<img src="/images/royce.png" style="border-radius: 50%; margin: 2rem;" width="360px" alt="Josiah Royce" title="Image: public domain, the Royce Society" height="360px">
+</center>
 
 [^progress]: Christopher Lasch's _The True and Only Heaven: Progress and its Critics_, a mind-bending opus of non-binary political and philosophical history.
 
