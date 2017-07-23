@@ -20,38 +20,38 @@ His aim was to prove that true loyalty was the source of _all_ other virtues.
 <img src="/images/royce.png" style="max-width: 75%; border-radius: 50%; margin: 2rem;" width="360px" alt="Josiah Royce" title="Image: public domain, the Royce Society">
 </center>
 
-I came across Royce's ideas in another book[^progress], and became fascinated with his specific definition of loyalty.
+I came across Royce's ideas in a book by another author[^progress] and became fascinated with his specific definition of loyalty.
 The ideas he proposed kept echoing back at me.
 Conversations in the media and in our public spaces hinted at a desire for loyalty.
-The structure Royce described seemed familiar -- echoed in my own thoughts and feelings, and in those of my friends.
+The structure Royce described seemed familiar --- echoed in my own thoughts and feelings, and in those of my friends.
 
 I figured this had to be something worth exploring.
 So I've decided to present Royce's arguments, condensing them into a briefer form to make them accessible.
-I want to see if these ideas resonate with other people -- or if I was just projecting my own interest onto the discussions around me.
+I want to see if these ideas resonate with other people --- or if I was just projecting my own interest onto the discussions around me.
 I want to begin conversations.
 
-I want to bring a new idea -- or rather, an old one -- into our mental toolbox so that we can recognise when it applies to people and events around us.
+I want to bring a new idea --- or rather, an old one --- into our mental toolbox so that we can recognise when it applies to people and events around us.
 I want us to be fluent in the talk of loyalty.
 
-[^progress]: Christopher Lasch's _The True and Only Heaven: Progress and its Critics_, a mind-bending opus of non-binary political and philosophical history.
+[^progress]: Christopher Lasch's _The True and Only Heaven: Progress and its Critics_, a mind-bending opus of political and philosophical history.
 
 ## 0. Signposts
 
 Let me quickly describe the scope of what I want to talk about in this article:
 
-- First we'll glance at Royce's broad philosophical framework, of which loyalty is the central piece.
-  I won't cover it in detail, and I don't understand it all yet myself, but I think it's valuable to get a sense of Royce's intellectual context.
-- Next we'll explore Royce's "pragmatic" definition of loyalty and break down its three requirements.
+1. In [the first section](#1-the-grand-philosophical-exception) I'll briefly introduce Royce's whole philosophical framework, of which loyalty is the central piece.
+  I won't cover it in detail, but I think it's valuable to see a glimpse of the intellectual context these ideas live in.
+2. Next [we'll explore](#2-loyalty-redefined) Royce's "pragmatic" definition of loyalty and break down its three requirements.
   (As opposed to his later, more philosophical definition of loyalty, which we won't discuss.)
-- I'll lay out the benefits Royce sees in the loyal life,
-- and then I'll introduce some examples, since he gives only a few of them himself.
+3. I'll lay out [the benefits](#3-the-loyal-life) Royce sees in the loyal life,
+4. and then I'll introduce [some examples](#4-examples), since he gives only a few of them himself.
 
 Each time I quote Royce, I will be referring to the text of the [online version](https://archive.org/details/philosophyloyal00roycuoft) of _The Philosophy of Loyalty_, a transcript of the lecture series he gave at Harvard University.
 
 ## 1. The grand philosophical exception
 
-The Stanford Encyclopaedia of Philosophy calls Royce the "grand philosophical exception" to other writers on loyalty[^stanford].
-Despite this -- or maybe because of it -- they seem reluctant to quote him too often.
+The Stanford Encyclopaedia of Philosophy calls Royce the "grand philosophical exception" to other writers on loyalty.[^stanford]
+Despite this --- or maybe because of it --- they seem reluctant to quote him too often.
 The extent to which Royce made loyalty into a universal philosophical framework was, by his own admission, embarrassing!
 
 Don't worry if these ideas don't make much sense yet.
@@ -60,7 +60,7 @@ At the very least, you may start to appreciate why Stanford gave him such an imp
 
 ### Idea one: individual loyalty to causes
 
-Royce believed that loyalty -- defined as the "willing and practical and thoroughgoing devotion by a person to a cause" -- was the most reliable way to live a happy, satisfied and worthwhile life.
+Royce believed that loyalty --- defined as the "willing and practical and thoroughgoing devotion by a person to a cause" --- was the most reliable way to live a happy, satisfied and worthwhile life.
 He writes that the loyal "are the only human beings who can have any reasonable hope of genuine success."
 He also saw it as the _primary virtue_, the foundation on top of which all other good behaviour must be built.
 
@@ -68,16 +68,16 @@ What constitutes loyalty, and what constitutes a valid cause, I will try to expl
 
 ### Idea two: universal loyalty to loyalty
 
-Loyal individuals must use loyalty itself -- "the one cause which is worthy of all men's devotion" -- as a guiding principle to discern between good and bad causes.
+Loyal individuals must use loyalty itself --- "the one cause which is worthy of all men's devotion" --- as a guiding principle to discern between good and bad causes.
 Royce believed that acting on this principle would lead to a just society, one that was harmonious in conscience even if not free of conflict.
 A _good cause_ according to this theory is one that encourages, rather than inhibits, others' ability to act loyally.
 
-Christopher Lasch proposed that this principle could alleviate the conflicts of a particularist society[^particularism].
+Christopher Lasch proposed that this principle could alleviate the conflicts of a particularist society.[^particularism]
 I think that the implementation of this idea is hampered by Royce's insistence not to judge the loyalties of others, but we won't discuss it in this article.
 
 ### Idea three: loyalty is the belief in absolute truth
 
-Royce develops his theory of loyalty into an all-encompassing ideology that stood opposed to the pragmatism espoused by his good friend William James and others[^james].
+Royce develops his theory of loyalty into an all-encompassing ideology that stood opposed to the pragmatism espoused by his good friend William James and others.[^james]
 He argues that a "spiritual unity of life, which transcends the individual experience of any man, must be real", because loyalty "is a service of causes that, from the human point of view, appear superpersonal."
 
 This transcendence explains loyalty's power, and its place as the primary virtue.
@@ -85,7 +85,7 @@ It also tints loyalty with a religious colour which many of his colleagues appar
 
 ### Community
 
-Royce went even further in his philosophy of community, described here by Stanford[^community]:
+Royce went even further in his philosophy of community, described here by Stanford:[^community]
 
 > Finally, beyond the actual communities that we directly encounter in life there is the ideal “Beloved Community” of all those who would be fully dedicated to the cause of loyalty, truth and reality itself.
 
@@ -198,14 +198,14 @@ The two most significant components of this loyal life are its defeat of the pro
 ### The problem of individualism
 
 Given the fundamental psychological truth of individualism, Royce describes a problem every thinking person faces.
-We all strive to lead lives of happiness and significance -- to ourselves, or to the wider world.
+We all strive to lead lives of happiness and significance --- to ourselves, or to the wider world.
 But we are terrible at discerning _how_ to do that.
 How do we know what will make us content?
 Content not just this instant, but when we inevitably lie on the deathbed and review our life?
 
 Our hedonistic individual desire is no reliable guide to long-term happiness.
 And when we imitate one of the many paths to happiness suggested by the society around us, we don't have sufficient leeway for our individual expression.
-Royce sees these two forces -- individualistic desire and social imitation -- being constantly in conflict:
+Royce sees these two forces --- individualistic desire and social imitation --- being constantly in conflict:
 
 > These ways of the world appeal
 to our imitativeness, and so we learn from
@@ -232,14 +232,14 @@ Now freed from doubt and indecision, Royce argues, the devotee can act confident
 
 ### Loyalty in failure
 
-Plutarch wrote this about the death of Gaius Marius, eminent statesman and general of the Roman Republic[^plutarch]:
+Plutarch wrote this about the death of Gaius Marius, eminent statesman and general of the Roman Republic:[^plutarch]
 
 > And therefore though he had lived to be seventy years old,
 > and was the first man to be elected consul for the seventh time,
 > and was possessed of a house and wealth which would have sufficed for many kingdoms at once,
 > he lamented his fortune, in that he was dying before he had satisfied and completed his desires.
 
-The folklore, literature and history of humankind is full of stories of people whose ambition consumed them -- whether in success or in failure.
+The folklore, literature and history of humankind is full of stories of people whose ambition consumed them --- whether in success or in failure.
 Ambition might lead us to attempt great things, but only a few of us will succeed at them.
 Sometimes ambition leads us _too far_, wading like Macbeth through rivers of blood.
 Sometimes fortune upsets the most meticulous plans.
@@ -258,7 +258,7 @@ When "the show must go on", the lead actor is empowered by the knowledge that th
 The revolutionary needn't fear imprisonment, knowing others will continue the fight in their place.
 
 The loyal are satisfied by the act of living loyally, every day of their lives.
-They also have the psychological security of an ongoing movement where success is not limited by their own effort[^lost causes].
+They also have the psychological security of an ongoing movement where success is not limited by their own effort.[^lost causes]
 
 This conclusion doesn't remove the potential for movements to have leaders.
 Royce believed charismatic leaders were important (if not sufficient) for inspiring true loyalty, especially in the early days of a cause.
@@ -390,4 +390,4 @@ I have tried to explain Josiah Royce's unique concept of loyalty, and why it is 
 True loyalty, Royce claimed, is a voluntary, active devotion to a superpersonal cause.
 It helps us conquer our conflicting desires, and gives us a social purpose that fulfils deep needs in our being.
 
-If you have any thoughts about what I've written -- positive or negative, academic or emotional -- I would be very grateful to hear them.
+If you have any thoughts about what I've written --- positive or negative, academic or emotional --- I would be very grateful to hear them.
