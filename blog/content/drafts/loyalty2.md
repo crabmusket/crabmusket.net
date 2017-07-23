@@ -385,13 +385,8 @@ But I hope they have been able to help you imagine loyalty more concretely.
 
 ## 5. Coda
 
-Before I close, I cannot help mentioning an [existing exploration of Roycean loyalty](http://www.artofmanliness.com/2009/10/25/on-manly-loyalty) that appeared on _The Art of Manliness_ in 2009.
-It covers similar ground to this article, but in a much more specific style.[^manliness]
-
 I have tried to explain Josiah Royce's unique concept of loyalty, and why it is interesting to me, in the hope that it might be interesting to you.
 True loyalty, Royce claimed, is a voluntary, active devotion to a superpersonal cause.
 It helps us conquer our conflicting desires, and gives us a social purpose that fulfils deep needs in our being.
 
 If you have any thoughts about what I've written -- positive or negative, academic or emotional -- I would be very grateful to hear them.
-
-[^manliness]: I imagine that rather than thinking about "manly loyalty", Royce would ask whether men exhibit _loyal manliness_. It is the loyalty which makes the manliness good, not the other way around.
