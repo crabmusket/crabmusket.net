@@ -3,6 +3,7 @@ date: 2015-07-10T00:00:00Z
 tags: docker haskell
 title: 'Development versus deployment: Docker and Haskell'
 slug: development-versus-deployment-docker-and-haskell
+featured: true
 ---
 
 This post was prompted by a [recent discussion](https://www.reddit.com/r/haskell/comments/3bmzn8/how_can_i_improve_build_time_especially_on_docker/) about using Docker for Haskell development.

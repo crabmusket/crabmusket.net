@@ -3,6 +3,7 @@ date: 2014-07-01T00:00:00Z
 tags: torque jams
 title: 'Monster Mash: entry #1'
 slug: monster-mash-entry-1
+featured: true
 ---
 
 Welcome one, welcome all to my second [Monster Mash][] jam log.
@@ -99,6 +100,6 @@ And today, I:
 Till next time!
 
 [Monster Mash]: http://itch.io/jams/monster-mash
-[the first one]: ../../2014-06-29/monster-mash-entry-0/ 
+[the first one]: ../../2014-06-29/monster-mash-entry-0/
 [big hooting bug]: http://www.garagegames.com/community/forums/viewthread/138093
 [added]: https://github.com/GarageGames/Torque3D/pull/613

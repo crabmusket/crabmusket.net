@@ -3,6 +3,7 @@ date: 2013-11-28T00:00:00Z
 tags: [haskell, tutorials, programming]
 title: 'Micro-tutorial: liftM by accident'
 slug: liftm-by-accident
+featured: true
 ---
 
 As a relatively new Haskeller, I've been mystified at the `lift` family of functions.

@@ -3,6 +3,7 @@ date: 2017-04-21T05:00:00Z
 tags: [loyalty, philosophy, academic]
 title: 'Loyalty and the Grand Philosophical Exception'
 slug: the-rehabilitation-of-loyalty
+featured: true
 ---
 
 The word "loyalty" makes me think of flimsy punch-cards printed with arrays of takeaway coffees or Subway sandwiches.

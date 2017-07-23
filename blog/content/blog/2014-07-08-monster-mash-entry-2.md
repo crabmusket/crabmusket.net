@@ -3,6 +3,7 @@ date: 2014-07-08T00:00:00Z
 tags: torque jams
 title: 'Monster Mash: entry #2'
 slug: monster-mash-entry-2
+featured: true
 ---
 
 Welcome one, welcome all to my third and final [Monster Mash][] jam log.
@@ -68,7 +69,7 @@ So, what did I get up to in the latter half of the jam?
       transition[_, attackNear] = getHelp;
       transition[_, attackFar] = scared;
    };
-   
+
    ```
 
    There's also some fun behaviors built around these states.
@@ -132,7 +133,7 @@ So, what did I get up to in the latter half of the jam?
          commandToServer('reset');
       }
    }
-   
+
    function serverCmdReset(%client) {
       onStart();
       %client.onEnterGame();
@@ -195,8 +196,8 @@ So, I think we have some work to do before I would call T3D completely user-frie
 I look forward to the challenge.
 
 [Monster Mash]: http://itch.io/jams/monster-mash
-[the first one]: ../../2014-06-29/monster-mash-entry-0/ 
-[second]: ../../2014-07-01/monster-mash-entry-1/ 
+[the first one]: ../../2014-06-29/monster-mash-entry-0/
+[second]: ../../2014-07-01/monster-mash-entry-1/
 [itch.io page]: http://eightyeight.itch.io/nessie-sim-2014
 [vlrtt]: https://github.com/eightyeight/vlrtt
 [safari]: ../../safaris/
