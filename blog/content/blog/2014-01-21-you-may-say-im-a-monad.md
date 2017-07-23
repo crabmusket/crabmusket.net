@@ -3,6 +3,7 @@ date: 2014-01-21T00:00:00Z
 tags: haskell tutorials programming
 title: 'IO: You may say I''m a monad, but I''m not the only one!'
 slug: you-may-say-im-a-monad
+featured: true
 ---
 
 One of the things I love about Haskell is its tools for abstracting computation.
@@ -352,4 +353,3 @@ I highly recommend LYAH's sections on [functors](http://learnyouahaskell.com/mak
 and [monads](http://learnyouahaskell.com/a-fistful-of-monads) (in that order).
 
 Thanks for reading!
-

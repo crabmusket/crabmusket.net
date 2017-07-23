@@ -3,6 +3,7 @@ date: 2014-12-25T00:00:00Z
 tags: torque
 title: 'A matter of opinion: what I dislike about TorqueScript'
 slug: torquescript
+featured: true
 ---
 
 It appears that despite spending a long time ranting about my dislike for TorqueScript, I haven't made it clear exactly what frustrates me.
