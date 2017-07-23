@@ -61,7 +61,7 @@ At the very least, you may start to appreciate why Stanford gave him such an imp
 
 Royce believed that loyalty -- defined as the "willing and practical and thoroughgoing devotion by a person to a cause" -- was the most reliable way to live a happy, satisfied and worthwhile life.
 He writes that the loyal "are the only human beings who can have any reasonable hope of genuine success."
-But more than that, he also saw it as the _primary virtue_, the foundation on top of which all other good behaviour rests.
+He also saw it as the _primary virtue_, the foundation on top of which all other good behaviour must be built.
 
 What constitutes loyalty, and what constitutes a valid cause, I will try to explain in this article.
 
@@ -72,7 +72,7 @@ Royce believed that acting on this principle would lead to a just society, one t
 A _good cause_ according to this theory is one that encourages, rather than inhibits, others' ability to act loyally.
 
 Christopher Lasch proposed that this principle could alleviate the conflicts of a particularist society[^particularism].
-I think that the implementation of this idea is hampered by Royce's insistence not to judge the loyalties of others -- but we won't discuss it in this article.
+I think that the implementation of this idea is hampered by Royce's insistence not to judge the loyalties of others, but we won't discuss it in this article.
 
 ### Idea three: loyalty is the belief in absolute truth
 
@@ -101,10 +101,7 @@ Let's now look in depth at **idea one**: Royce's concept of loyalty.
 ## 2. Loyalty redefined
 
 The first lecture of Royce's series introduces a _new_ definition of the idea of loyalty.
-You might consider creating a new concept and reusing the word "loyalty" to be cheating.
-I prefer to allow Royce's rehabilitation a little leeway.
-
-I cannot word the definition better than Royce himself (though I did add the bulleted formatting and emphases):
+I cannot word it better than Royce himself (though I did add the bulleted formatting and emphases):
 
 > Loyalty shall mean, according to this preliminary definition:
 > The willing and practical and thoroughgoing devotion by a person to a cause.
@@ -115,7 +112,7 @@ I cannot word the definition better than Royce himself (though I did add the bul
 > * and when, thirdly, he expresses his devotion in some _sustained and practical way_.
 
 (Apologies to women who are reading this.
-Royce uses masculine pronouns by default, though he includes all people in his thesis.)
+Royce uses masculine pronouns by default, though he means to include all people.)
 
 This definition has several striking features.
 They distinguish it from other ways of thinking about loyalty.
@@ -130,13 +127,12 @@ But action is necessary to create the benefits of the loyal life.
 
 ### Will and individualism
 
-The stipulation that one must be _willingly_ and _thoroughly_ devoted ensures that we don't mistake coercion for true loyalty.
+The stipulation that one must be "_willingly_ and _thoroughly_" devoted ensures that we don't mistake coercion for true loyalty.
 While strong loyalty might seem like a collectivist ideal, Royce begins with the necessary individuality of each human:
 
-> Yes, the entire and infinite visible world, to be even more exact,
-> seems to each of you to have its centre about where the bridge of your own nose chances to be.
+> Yes, the entire and infinite visible world ... seems to each of you to have its centre about where the bridge of your own nose chances to be.
 
-He goes to great lengths to emphasise that loyalty preserves and enhances personal autonomy, rather than erasing it:
+He emphasises that loyalty preserves and enhances personal autonomy, rather than erasing it:
 
 > Your only recourse [from the problem of deciding what to do with your life]
 > is to assert your autonomy by choosing a cause,
@@ -162,13 +158,13 @@ I have left it to last because it is so central to Royce's idea of loyalty, but 
 Royce discusses causes at great length.
 The three distinguishing features of a cause which can inspire true loyalty are:
 
-- The cause must have _personal_ (or selfish) value to you, the loyal follower.
+1. The cause must have _personal_ (or selfish) value to you, the loyal follower.
   Royce cannot conceive of loyalty to a cause that the devotee sees as worthless.
-- The cause must _also_ have value _outside_ your own self.
+2. The cause must _also_ have value _outside_ your own self.
   It must be "objective" as he puts it, by potentially having value to other people.
   Why? Because:
-- The cause must concern others; it must be _social_, so that shared loyalty can bind us together with others.
-  The possibility of having "fellow-servants" before, beside and beyond us fulfils a deep social need.
+3. The cause must concern others; it must be _social_, so that shared loyalty can bind us together with others.
+  The possibility of having "fellow-servants" around us fulfils a deep social need.
 
 The word Royce uses to sum up these ideas is "superpersonal".
 Causes are not merely _personal_, having value only to one person.
@@ -204,11 +200,11 @@ Given the fundamental psychological truth of individualism, Royce describes a pr
 We all strive to lead lives of happiness and significance -- to ourselves, or to the wider world.
 But we are terrible at discerning _how_ to do that.
 How do we know what will make us content?
-Content not just this instant, but when we lie on our anticipated deathbed and review our lives?
+Content not just this instant, but when we inevitably lie on the deathbed and review our life?
 
 Our hedonistic individual desire is no reliable guide to long-term happiness.
-And when we imitate one of the many paths to happiness suggested by the society around us, we don't have sufficient room for our individual expression.
-Royce sees these two forces -- individual desires, and external authority -- being constantly in conflict:
+And when we imitate one of the many paths to happiness suggested by the society around us, we don't have sufficient leeway for our individual expression.
+Royce sees these two forces -- individualistic desire and social imitation -- being constantly in conflict:
 
 > These ways of the world appeal
 to our imitativeness, and so we learn from
@@ -225,11 +221,13 @@ see that it is not my way. I revive. I assert
 myself. My duty, I say, is my own. And
 so, perhaps, I go back again to my own wayward heart.
 
-Loyalty, he says, is where "mere social conformity" unifies with our heart's desires and becomes a real solution.
-One must discovering a cause, decide to submit to its calling, and then act loyally in its service for as long as they can.
+Loyalty, he says, is where "mere social conformity" unifies with our heart's desires.
+The loyal discover a cause, decide to submit to its needs, and then act wholeheartedly in its service.
+They have given up some of their 'freedom', because they are now obliged to serve the cause.
+But they have achieved _articulate expression_ of their desires through their choice of cause.
 
 Solved, for the loyal, is the problem of knowing how to balance their desires with the pressures of the external world.
-Desire is perfectly expressed in the choice of the cause and, now freed from doubt and indecision, the follower can act confidently.
+Now freed from doubt and indecision, Royce argues, the devotee can act confidently.
 
 ### Loyalty in failure
 
@@ -279,6 +277,9 @@ I will attempt to forestall (or maybe prompt) a few of those with some brief apo
 - While loyalty may be good for the loyal, it may of course be harmful for others who they are opposed to.
   (In other words, yes, you _can_ be a loyal Nazi. Some writers on loyalty disagree with this.)
   We haven't looked at what Royce thinks makes a _good_ cause, only what makes a _superpersonal_ cause.
+- Along the same lines, I believe warfare can be conducted loyally, and can indeed bring the benefits Royce describes.
+  However, I think loyal warfare has rarely (if ever) been seen in human history.
+  Agreements like the Geneva convention are an attempt to realise it, but they have fallen short or been ineffective.
 - Loyalty is not blind.
   Surrendering one's individual will to the service of a cause doesn't have to mean surrendering one's intellect.
   Royce encourages us to actively reflect on the legitimacy of the causes we follow, and to reject causes that have ceased to be worthy.
@@ -310,7 +311,7 @@ When King Charles I famously demanded he reveal the locations of dissenting parl
 
 The Speaker's refusal to compromise the requirements of his office epitomises "personal dignity greater than kingship, the dignity that any loyal man, great or humble, possesses whenever he speaks and acts in the service of his cause."
 
-Now I will add a few more-modern illustrations.
+Now I will add a few more illustrations.
 
 ### Loyalty in politics
 
@@ -333,14 +334,36 @@ It seems we all want politicians to demonstrate true loyalty, especially to the 
 [^five members]: This was known as the the [five members](https://en.wikipedia.org/wiki/Five_Members) incident.
 [slate]: http://www.slate.com/articles/news_and_politics/the_big_idea/2008/11/loyalty.html
 
-### Loyalty as consumers and workers
+### Religion as loyalty
+
+Religion (Christianity[^christianity] in particular, which I am most familiar with) bears many resemblances to Royce's loyalty.[^religion]
+That much was probably obvious already, but let's go a bit deeper.
+
+In Christian theology, humans are in slavery to sin, to their desires that contravene God's will for their lives.
+True freedom is freedom _from_ sin, freedom granted _in order to_ live in the way God intended.
+Underlying this is the existence of an ideal, a perfect way God intended humans to be.
+This perfect humanity glorifies God and satisfies the believer.
+
+Compare this to Royce's assertion that living loyally is ideal for humans.
+Loyalty frees us _from_ indecision and distraction, frees us _in order to_ live in the way that leads to true satisfaction.
+
+Neither promises an easy or a successful life.
+Both, however, claim that the desires which come naturally to us are warped.[^warped]
+Self-control is important to both gospel freedom and to loyalty.
+It allows us to overcome our natures and attain better things.
+
+[^christianity]: That is to say, western Protestantism. I readily acknowledge that it is not all of Christianity, but it does seem to be quite popular.
+[^religion]: Though Royce's metaphysics don't align with those of any specific religion, Christianity appears to have been a heavy intellectual influence on his work.
+[^warped]: Neither Royce nor Christians say that our desires are downright wrong, but both agree that they are somehow bent out of shape.
+
+### Loyalty of workers and consumers
 
 Can you be loyal to a company?
-Surely if a nation-state is a fitting object of loyalty, then a large company, which you may serve as employee or customer, could also satisfy the demands of loyalty.
+Surely if a nation-state is a fitting object of loyalty, then a large company, which you may serve as employee or customer, could also fulfil the conditions to become a valid cause.
 
 What about a brand?
 We often speak of 'brand loyalty', but I am more inclined to say that our brand preferences are ways of expressing our loyalty to other causes.
-I have a [Fairphone](https://www.fairphone.com/en/) because it is a (small) step towards the dream of a more compassionate economy.
+For example, I have a [Fairphone](https://www.fairphone.com/en/) because it is a (small) step towards the dream of a more compassionate economy.
 
 In my experience, startups often elicit loyalty.
 In early employees, there is frequently personal faithfulness to the founders.
@@ -357,20 +380,18 @@ Pete, the device's inventor, replied:
 
 His acknowledgement of being only _part of the solution_, combined with the passion, time and resources he poured into the project, seem incredibly loyal to me.
 
-### Loyalty in marriage
-
-Todo
-
 Regretfully, I've only introduced these examples in their shallowest forms.
 But I hope they have been able to help you imagine loyalty more concretely.
 
 ## 5. Coda
 
-Before I close, it may be worth mentioning an [existing exploration of Roycean loyalty](http://www.artofmanliness.com/2009/10/25/on-manly-loyalty) that appeared on _The Art of Manliness_ in 2009.
-It covers similar ground to this article, but in a rather more _manly_ fashion.
+Before I close, I cannot help mentioning an [existing exploration of Roycean loyalty](http://www.artofmanliness.com/2009/10/25/on-manly-loyalty) that appeared on _The Art of Manliness_ in 2009.
+It covers similar ground to this article, but in a much more specific style.[^manliness]
 
 I have tried to explain Josiah Royce's unique concept of loyalty, and why it is interesting to me, in the hope that it might be interesting to you.
 True loyalty, Royce claimed, is a voluntary, active devotion to a superpersonal cause.
 It helps us conquer our conflicting desires, and gives us a social purpose that fulfils deep needs in our being.
 
 If you have any thoughts about what I've written -- positive or negative, academic or emotional -- I would be very grateful to hear them.
+
+[^manliness]: I imagine that rather than thinking about "manly loyalty", Royce would ask whether men exhibit _loyal manliness_. It is the loyalty which makes the manliness good, not the other way around.
