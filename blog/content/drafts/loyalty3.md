@@ -6,11 +6,11 @@ slug: loyalty-a-primer
 featured: true
 ---
 
-Loyalty is not cool.
+Loyalty is _not_ a cool idea.
 It's a stodgy idea, superseded by more attractive ones like freedom-as-choice.
 Its reputation has been compromised by consumer loyalty programs and the party loyalty of partisan politics.
 But a hundred years ago, American philosopher Josiah Royce had a unique, hopeful vision of loyalty which defied its poor (even back then) reputation.
-I was enthraled by his ideas, because they seemed utterly relevant to life today -- both to the _big debates_ people are having in the media, and also to the choices myself and my friends are making for ourselves.
+I was enthralled by his ideas, because they seemed utterly relevant to life today -- both to the _big debates_ people are having in the media, and also to the choices myself and my friends are making for ourselves.
 
 So by writing this article, I want to give you some understanding of what loyalty meant to Royce and what it means to me.
 I want to bring a new idea (or rather, an old one) into our mental toolbox, so we can more easily recognise loyalty when we see it, or see a lack of it.
@@ -25,6 +25,15 @@ Loyalty, Royce wrote, is the voluntary, wholehearted and active devotion of a pe
 He believed that those living loyally have the best chance of mortal happiness.
 They sacrifice some of their self-autonomy in the service of a cause (or causes), but they gain so much more in return.
 The loyal are freed from indecision and doubt, bound tightly in a community which shares their mission, and protected from crushing ambition and the fear of failure.
+
+### What's in this article
+
+1. [Loyalty redefined](#1-loyalty-redefined)
+2. [The loyal life](#2-the-loyal-life)
+3. [The grand philosophical exception](#3-the-grand-philosophical-exception)
+4. [Some examples](#4-some-examples)
+5. [Connections](#5-connections)
+6. [Coda](#6-coda)
 
 [^philosophy-of-loyalty]: These lectures were later collected into a book published as _The Philosophy of Loyalty_. Its text is available online here: https://archive.org/details/philosophyloyal00roycuoft
 
@@ -45,8 +54,7 @@ This definition has several striking features that distinguish it from other way
 
 [^preliminary]: Royce followed this up with a metaphysical definition of loyalty: the belief in and pursuit of _an absolute truth_. Royce may have found this necessary --- especially in opposition to the philosophy of pragmatism explored by his close friend William James --- but I think his "preliminary" ideas are more than capable of holding water on their own.
 
-[^pronouns]: Apologies to people not included by the pronoun 'he'.
-Royce uses the masculine by default, though he explicitly means to include all people.
+[^pronouns]: Apologies to people excluded by Royce's use of 'man' and 'he'. Royce unfortunately defaults to the masculine, though he explicitly means to include all people.
 
 ### Causes: the objects of loyalty
 
@@ -138,7 +146,7 @@ And so, perhaps, I go back again to my own wayward heart.
 The triumph of loyalty is that once you have chosen a cause (thus expressing your individual will) you are given guidelines, examples, and social influence that frees you from indecision.
 It is a vision of _negative liberty_: freedom _from_ natural neuroses that prevent us from living satisfied lives.[^christian-freedom]
 
-[^christian-freedom]: In this, it is like the Christian vision of freedom, which I explore in [section 4](#5-connections).
+[^christian-freedom]: In this, it is like the Christian vision of freedom, which I explore in [section 5](#5-connections).
 
 ### Loyalty in failure
 
@@ -213,7 +221,7 @@ The extent to which Royce made loyalty into a universal philosophical framework 
 [^grand-philosophy]: There is a great overview of Royce's life, works, and ideas here: https://plato.stanford.edu/entries/royce/ His philosophy of community, as well as the definition of loyalty as belief in the absolute, get very metaphysical.
 [^particularism]: Particularism is something like multiculturalism: many groups coexisting despite different virtues and aims. Liberalism may be one framework under which they can do this without being at each others' throats; loyalty may be another.
 
-## 4. Examples
+## 4. Some examples
 
 Royce in his own work tends to use examples that even he acknowledges are stereotypical:
 
@@ -326,9 +334,7 @@ The emphasis on the social side of fulfilment as well as the need for expression
 While ikigai is focused on careers and work (and therefore has a lot in common with the 'do what you love' mania that is gripping the upper middle class[^do-what-you-love]) I think it's helpful to see the connection to the broader concept of loyalty.
 
 [^ikigai]: The article includes the famous Venn diagram: https://www.weforum.org/agenda/2017/08/is-this-japanese-concept-the-secret-to-a-long-life
-[^do-what-you-love]: My own philosophy is more skeptical, along the lines of this piece by Miya Tokumitsu for Jacobin: https://www.jacobinmag.com/2014/01/in-the-name-of-love/
-Although loyalty seems supportive of the idea of 'doing what you love', it is not focused on work.
-Royce acknowledges it's not possible to fit all loyalties into the job market: for example, he explains that working in a job that does not directly advance a cause may still be an expression of loyalty if it affords you a living so you can devote your non-work time to that cause.
+[^do-what-you-love]: My own philosophy is more skeptical, along the lines of this piece by Miya Tokumitsu for Jacobin: https://www.jacobinmag.com/2014/01/in-the-name-of-love/ Although loyalty seems supportive of the idea of 'doing what you love', it is not focused on work. Royce acknowledges it's not possible to fit all loyalties into the job market: for example, he explains that working in a job that does not directly advance a cause may still be an expression of loyalty if it affords you a living so you can devote your non-work time to that cause.
 
 ### Gospel freedom
 
