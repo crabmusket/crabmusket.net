@@ -17,5 +17,7 @@ pods.crabmusket.net {
 	gzip
 	proxy / localhost:3000 {
 		transparent
+		header_downstream Cache-Control 'max-age=0, no-cache, no-store'
+		header_downstream Pragma 'no-cache'
 	}
 }
