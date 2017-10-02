@@ -2,7 +2,7 @@
 date: 2015-07-10T00:00:00Z
 tags: docker haskell
 title: 'Development versus deployment: Docker and Haskell'
-description: 'This post was prompted by a recent discussion about using Docker for Haskell development. The question was: how do I develop quickly using Docker, and avoid waiting for the container to be rebuilt all the time? My answer is that you should develop in one container, and deploy an entirely different container.'
+description: 'This post was prompted by a recent discussion about using Docker for Haskell development. The question was: how do I develop quickly using Docker, and avoid waiting for the container to be rebuilt all the time?'
 slug: development-versus-deployment-docker-and-haskell
 featured: true
 ---
