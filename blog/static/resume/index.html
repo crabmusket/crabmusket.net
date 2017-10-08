@@ -1,0 +1,374 @@
+<!doctype html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      <title>Resume &ndash; Daniel Buckmaster</title>
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href='http://fonts.googleapis.com/css?family=Averia+Serif+Libre' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <style>
+      html {
+        font-size: 12pt;
+      }
+
+      body {
+        color: #444;
+        font-size: 1.25rem;
+        font-family: 'PT Serif', serif;
+        background-color: #fafafa;
+      }
+
+      .resume {
+        text-align: center;
+        max-width: 42rem;
+        margin: 0 auto;
+        padding: 0 1rem;
+      }
+
+      @media print {
+        .resume {
+          max-width: 100%;
+        }
+
+        .pdf-link {
+          display: none;
+        }
+      }
+
+      .title {
+        font-family: 'Averia Serif Libre', serif;
+        font-size: 4rem;
+        margin-bottom: 0;
+        margin-top: 4rem;
+      }
+
+      .title__prefix {
+        display: block;
+        font-size: 2rem;
+      }
+
+      @media print {
+        .title {
+          font-size: 2rem;
+        }
+
+        .title__prefix {
+          display: inline;
+          font-size: 2rem;
+        }
+      }
+
+      .subtitle {
+        font-style: italic;
+        font-size: 1rem;
+      }
+
+      .section-head {
+        margin-top: 4rem;
+        margin-bottom: 1rem;
+      }
+
+      @media print {
+        .section {
+          page-break-inside: avoid;
+        }
+        .section-head {
+          margin-top: 2rem;
+        }
+      }
+
+      .item-head {
+        margin-top: 3rem;
+        text-align: left;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .item-head__title {
+        font-size: 1.25rem;
+        margin: 0;
+      }
+
+      .item-head__date {
+        padding-left: 1rem;
+      }
+
+      .item-body {
+        text-align: left;
+        font-size: .9375rem;
+        line-height: 1.6;
+      }
+
+      .item-detail {
+        text-align: justify;
+        text-indent: .5rem;
+      }
+
+      a {
+        color: #444;
+        text-decoration: underline;
+      }
+
+      a:hover {
+        color: #444;
+        text-decoration: underline;
+      }
+
+      a.seamless {
+        text-decoration: none;
+      }
+
+      a.seamless:hover {
+        text-decoration: none;
+      }
+
+      hr {
+        border-color: #eee;
+        max-width: 28rem;
+      }
+
+      @media screen and (max-width: 768px) {
+        html {
+          font-size: 10pt;
+        }
+      }
+
+      @media print {
+        html {
+          font-size: 10pt;
+        }
+
+        body {
+          color: black;
+          background-color: white;
+        }
+
+        a {
+          color: black;
+          text-decoration: none;
+        }
+
+        .item {
+          page-break-inside: avoid;
+        }
+      }
+    </style>
+
+    <div class="resume">
+      <a class="seamless" href="http://crabmusket.net">
+        <h1 class="title">
+          <span class="title__prefix">Daniel</span>
+          Buckmaster
+        </h1>
+      </a>
+
+      <p class="subtitle">Full-stack programmer, entrepreneur and reluctant technophile based in Sydney, Australia</p>
+
+      <p class="pdf-link"><a href="/resume/Resume%20Daniel%20Buckmaster.pdf" target="_blank">PDF version</a></p>
+
+      <section class="section">
+        <h2 class="section-head">
+          Skills
+        </h2>
+
+        <hr />
+
+        <article class="item">
+          <div class="item-head">
+            <h3 class="item-head__title">Programming &amp; problem solving</h3>
+          </div>
+
+          <div class="item-body">
+            <p class="item-detail">
+              <b>Web</b> &middot; I'm proficient in cutting-edge HTML/CSS/JavaScript development.
+              I prefer to write modular JavaScript using bundling, transpilation and hot-reloading.
+              I have implemented backends in PHP, Haskell, Go and JavaScript and am experienced in the use of asynchronous backends (e.g. queueing tasks via Redis) and database design.
+            </p>
+
+            <p class="item-detail">
+              <b>Games</b> &middot; I have been a significant contributor to the <a href="http://torque3d.org" target="_blank">Torque 3D game engine</a> (written in C++).
+              My main areas of interest were pathfinding and AI, and I also implemented engine unit tests using the Google Test framework.
+            </p>
+
+            <p class="item-detail">
+              <b>Optimisation</b> &middot; I'm acquainted with optimisation techniques for solving problems.
+              Particularly convex optimisation problems and the cvxpy Python library.
+            </p>
+
+            <p class="item-detail">
+              <b>Embedded</b> &middot; I've completed academic and personal projects on embedded hardware using C and assembly languages.
+              I'm familiar with circuit design and electronics.
+            </p>
+          </div>
+        </article>
+
+        <article class="item">
+          <div class="item-head">
+            <h3 class="item-head__title">Operations &amp; workflows</h3>
+          </div>
+
+          <div class="item-body">
+            <p class="item-detail">
+              <b>Deployment</b> &middot; I've deployed into managed environments (Heroku, Forge/Envoyer) and bare infrastructure services (AWS and DigitalOcean).
+              I have deployed services using Docker containers, etcd for configuration and systemd for process management.
+            </p>
+
+            <p class="item-detail">
+              <b>Agile</b> &middot; I've practised agile methods including sprints, task estimation, pair programming and code review.
+            </p>
+
+            <p class="item-detail">
+              <b>Version control</b> &middot; I'm a skilled git user.
+              I know how to modify history and, more importantly, not to.
+            </p>
+          </div>
+        </article>
+
+        <article class="item">
+          <div class="item-head">
+            <h3 class="item-head__title">People &amp; communications</h3>
+          </div>
+
+          <div class="item-body">
+            <p class="item-detail">
+              <b>Speaking</b> &middot; I'm a decent presenter of technical subjects and business pitches, as well as debating and teaching.
+            </p>
+
+            <p class="item-detail">
+              <b>Writing</b> &middot; I'm a fluent written communicator (in English) and experienced with document preparation in Word, HTML, and LaTeX.
+            </p>
+          </div>
+        </article>
+      </section>
+
+      <section class="section">
+        <h2 class="section-head">
+          Experience
+        </h2>
+
+        <hr />
+
+        <article class="item">
+          <div class="item-head">
+            <h3 class="item-head__title">Co&ndash;founder, Pylon</h3>
+            <span class="item-head__date">September&nbsp;2015 &mdash; present</span>
+          </div>
+
+          <div class="item-body">
+            <p class="item-detail">
+              Pylon makes sales and design software used by over 100 Australian solar retailers and installers.
+              We received seed investment and mentoring from the <a href="http://www.startmate.com.au/" target="_blank">Startmate</a> accelerator program in Q1 2016.
+            </p>
+
+            <p class="item-detail">
+              As one of two cofounders, I've contributed to the business and communication work of starting a company.
+              This includes pitching at public and private events, customer development and outreach, and generating leads via cold calls and emails.
+            </p>
+
+            <p class="item-detail">
+              As the lead developer on the team, I've implemented most of our web backend (using PHP/Laravel and NodeJS) and frontend (using Javascript, Typescript, Vue, THREE.js and Leaflet).
+              The most complex tasks have included:
+            </p>
+
+            <ul>
+              <li>coordinating the Leaflet base map and THREE.js visualisation layer with each other and the rest of the application UI</li>
+              <li>server-side rendering of combined map tiles and visualisation layers</li>
+              <li>auto-saving and triggering calculations from an external API</li>
+              <li>our credit-based billing system</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="item">
+          <div class="item-head">
+            <h3 class="item-head__title">Associate Software Engineer, NICTA</h3>
+            <span class="item-head__date">July&nbsp;2014 &mdash; December&nbsp;2015</span>
+          </div>
+
+          <div class="item-body">
+            <p class="item-detail">
+              Applied my frontend skills to the <a href="https://coviu.com/" target="_blank">Coviu</a> video and document sharing application,
+              using the cutting-edge WebRTC standard. Implemented document annotations in an
+              efficient and user-friendly manner.
+            </p>
+
+            <p class="item-detail">
+              Involved with customer and user research, helping to gather business/UX
+              requirements and communicate NICTA's capabilities to often non-technical clients.
+            </p>
+          </div>
+        </article>
+
+        <article class="item">
+          <div class="item-head">
+            <h3 class="item-head__title">Web Development Contractor, MST&nbsp;Global</h3>
+            <span class="item-head__date">December&nbsp;2013 &mdash; June&nbsp;2016</span>
+          </div>
+
+          <div class="item-body">
+            <p class="item-detail">
+              I implemented several web frontends using AngularJS for controlling and monitoring embedded hardware systems.
+              This work resulted in a frontend template that is used to rapidly produce UIs for new products.
+            </p>
+
+            <p class="item-detail">
+              I designed and implemented an embedded server in Go to interface with emergency radio communication hardware.
+              This involved building a web API and frontend as well as managing serial communications with the transmitter.
+            </p>
+          </div>
+        </article>
+      </section>
+
+      <section class="section">
+        <h2 class="section-head">
+          Education
+        </h2>
+
+        <hr />
+
+        <article class="item">
+          <div class="item-head">
+            <h3 class="item-head__title">B.E.&nbsp;(mechatronics) / B.Sc.&nbsp;(computer&nbsp;science), Sydney&nbsp;University</h3>
+            <span class="item-head__date">2014</span>
+          </div>
+
+          <div class="item-body">
+            <p class="item-detail">
+              I completed my honours thesis on the use of model-predictive control strategies for solar hot water systems.
+              This involved writing <a href="https://github.com/crabmusket/thesis" target="_blank">simulation and control software</a>
+              in Python and doing extensive literature review.
+            </p>
+
+            <p class="item-detail">
+              I acted as the lead software developer in MTRX3700 final project,
+              architecting a small embedded C application and implementing two of its modules.
+            </p>
+
+            <p class="item-detail">
+              I mentored first-year IT and electrical engineering students through programs
+              in class and on my own time.
+            </p>
+          </div>
+        </article>
+
+        <article class="item">
+          <div class="item-head">
+            <h3 class="item-head__title">IB&nbsp;Diploma, Antwerp International School</h3>
+            <span class="item-head__date">2009</span>
+          </div>
+
+          <div class="item-body">
+            <p class="item-detail">
+              I was awarded for excellence in physics in my senior year.
+            </p>
+          </div>
+        </article>
+      </section>
+    </div>
+  </body>
+</html>
