@@ -15,7 +15,11 @@
       <meta property="og:title" content="{{ .Title }}">
       <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00Z" }}">
       {{ if $.Param "description" }}<meta property="og:description" content="{{ $.Param "description" }}">{{ end }}
-      {{ if $.Param "image" }}<meta property="og:image" content="{{ $.Param "image" }}">{{ end }}
+      {{ if $.Param "image" }}
+          <meta property="og:image" content="{{ $.Param "image" }}">
+          {{ if $.Param "image-width" }}<meta property="og:image:width" content="{{ $.Param "image-width" }}">{{ end }}
+          {{ if $.Param "image-height" }}<meta property="og:image:height" content="{{ $.Param "image-height" }}">{{ end }}
+      {{ end }}
       <meta name="twitter:card" content="summary">
       <meta name="twitter:creator" content="@crabmusket">
   </head>
