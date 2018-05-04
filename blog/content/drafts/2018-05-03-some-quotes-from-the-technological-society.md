@@ -36,14 +36,14 @@ With this depiction of humans whose existence is dictated with such total precis
 In this work, Ellul explores how _technique_ (not merely technology!) develops in the modern world.
 
 Technique, Ellul argued, is the rational maximisation of efficiency in all areas of human endeavour.
-It resembles an ideology more than an artifact, though calling it an ideology would imply that humans consciously thought it up and promoted it.
+It resembles an ideology more than an artefact---though calling it an ideology would imply that humans consciously thought it up and promoted it.
 As Ellul sees it, technique obeys only its own internal logic and process of development.
 As it does so, it is transforming the whole of society in ways that seem inevitable and disastrous.
 
-Because I found Ellul's work at times moving, at times beautifully written, and at times excessively lengthy and difficult to get through, I decided to present a few choice quotes here.
+Because I found Ellul's work at times moving, at times beautifully written, always stimulating, and frequently excessively lengthy and difficult to get through, I decided to present a few choice quotes here.
 I have accompanied them with some context, and tried to be as brief as I can be.
-I think his ideas are fascinating, and as relevant now as they were 60 years ago.
-They gave me a new way of seeing the world---through the lens of _technique_, not just technology.
+I think his ideas are valuable as relevant now as they were 60 years ago.
+Any technologist who is serious about considering the social and ethical impact of their work should be familiar with the formidable force that is _la technique_.
 
 (All quotes below are taken from John Wilkinson's 1964 translation, in the softback Vintage Books publication.
 In defiance of Ellul's stance that "books are made to be read and not consulted," I have provided page numbers to avoid my own future frustration when working from such a sprawling source text.)
@@ -158,7 +158,7 @@ Let us think only of the cold and impersonal mechanism that holds all sources of
 
 > Popular will can only express itself within the limits that technical necessities have fixed in advance.
 >
-> p.209
+> &mdash; p.209
 
 &nbsp;
 
@@ -225,9 +225,9 @@ Far from a crushing Orwellian regime, technique acts subtly and realises that fo
 No wonder Aldous Huxley was a fan of the work, and was instrumental in causing its translation into English.
 
 Ellul describes at length the "human techniques" aimed at transforming humankind into something compatible with the new "technical milieu" being created.
-The alienation created by the transformation of humans into machines is palliated by all sorts of compensatory techniques, from films and mass entertainment to vocational guidance counselling to ergonomics.
+The alienation created by the transformation of humans into machines is palliated by all sorts of compensatory techniques, from films and sport to education to ergonomics.
 
-Ellul's bucolic ideal of the human environment before technique is difficult to accept uncritically, but his diagnosis of technical alienation, and his demonstration of further techniques which attempt to improve it, rings all too true in an age of mass media, dating apps, and epidemics of mental illness.
+Ellul's bucolic ideal of the "natural milieu" before technique is difficult to accept uncritically, but his diagnosis of technical alienation, and his demonstration of further techniques which attempt to improve it, rings all too true in an age of mass media, dating apps, and epidemics of mental illness.
 
 &nbsp;
 
@@ -305,7 +305,6 @@ Vocational guidance is this subordinated to planning technique.
 &nbsp;
 
 > The yield is greater when man acts from consent, rather than constraint.
-The problem then is to get the individual's consent artificially through depth psychology, since he will not give it of his own free will.
 >
 > &mdash; p.409
 
@@ -321,3 +320,7 @@ Yet it is apparently our fate to be facing a "golden age" in the power of sorcer
 > &mdash; p.435
 
 &nbsp;
+
+Though Ellul insists he is no pessimist, it would take a very generous reader to come to the same conclusion.
+His dialectic approach to his works might explain this; _La Technique_ presents the case for one side, which is compensated for in his other works of theology or social commentary.
+In the closing pages of the book, Ellul indulges in a cathartic excoriation of the technicians who are not just (like all of us) structurally entombed in technique, but who enthusiastically prophesy the coming liberation of humankind through its means.
