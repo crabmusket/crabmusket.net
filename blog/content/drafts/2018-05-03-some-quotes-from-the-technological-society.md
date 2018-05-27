@@ -20,33 +20,41 @@ featured: true
 
 The enormous engine reaches critical temperature and explodes, dousing its operators in scalding steam.
 They are thrown from its storeys-high walkways, or stagger away desperately trying to free themselves from clothes melting to their bodies.
+
 ["Moloch!"](https://en.wikipedia.org/wiki/Moloch) cries Freder, the young protagonist of Fritz Lang's 1927 _Metropolis_, as he witnesses the horror of the accident.
 He imagines the engine transformed into a huge demonic face, legions of workers marched to its maw to be sacrificed to the pounding wheels and pistons within.
-
 The real horror, Jacques Ellul would have argued, was not the accident, but what Freder observed immediately before it.
-Ranks of operators move in rhythmic tempo to pull levers and turn wheels in a precisely choreographed dance.
-They are almost indistinguishable from the rotating arms of the engine itself, seeming to become part of the mechanism.
-The engine functions flawlessly.
+
+&nbsp;
 
 <center>
   <video style="width: 100%; max-width: 480px;" autoplay loop muted preload="auto" src="/images/moloch-machine.mp4"></video>
 </center>
 
-With this depiction of humans whose existence is dictated with such total precision by the needs and tempo of the machine, Fritz Lang anticipated Ellul's masterpiece _La Technique_.
-In this work, Ellul explores how _technique_ (not merely technology!) develops in the modern world.
+&nbsp;
 
-Technique, Ellul argued, is the rational maximisation of efficiency in all areas of human endeavour.
+Ranks of working-class machine operators move in a precisely choreographed dance, pulling levers and turning wheels with a rhythmic tempo.
+They are almost indistinguishable from the rotating arms of the engine itself, seeming to actually be part of the mechanism.
+They remain human only biologically.
+In all other aspects, they have _become machines_.
+
+The engine functions flawlessly.
+
+By depicting humans whose existence is dictated with total precision by the needs and pace of the machine, Fritz Lang anticipated Ellul's masterpiece _La Technique_.
+In the book, Ellul explores how _technique_ develops in the modern world.
+Technique, Ellul argued, is not mere technology.
+Technique is the rational maximisation of efficiency in _all areas of human action_.
+
 It resembles an ideology more than an artefact---though calling it an ideology would imply that humans consciously thought it up and promoted it.
 As Ellul sees it, technique obeys only its own internal logic and process of development.
 As it does so, it is transforming the whole of society in ways that seem inevitable and disastrous.
 
-Because I found Ellul's work at times moving, at times beautifully written, always stimulating, and frequently excessively lengthy and difficult to get through, I decided to present a few choice quotes here.
-I have accompanied them with some context, and tried to be as brief as I can be.
 I think his ideas are valuable as relevant now as they were 60 years ago.
+For this reason I'd like to explore them
 Any technologist who is serious about considering the social and ethical impact of their work should be familiar with the formidable force that is _la technique_.
 
-(All quotes below are taken from John Wilkinson's 1964 translation, in the softback Vintage Books publication.
-In defiance of Ellul's stance that "books are made to be read and not consulted," I have provided page numbers to avoid my own future frustration when working from such a sprawling source text.)
+(All quotes below are taken from John Wilkinson's 1964 translation.
+Out of respect for Ellul's stance that "books are made to be read and not consulted," I have provided the name of the section each quote appears in, but no page references.)
 
 &nbsp;
 
@@ -60,7 +68,7 @@ In defiance of Ellul's stance that "books are made to be read and not consulted,
 
 &nbsp;
 
-Ellul describes at length the history of the human uses of technique, and its growth into what we see in the world around us.
+Ellul describes at length the history of technique, the way humans have used it over the centuries, and its growth into what we see today.
 He saw several distinct characteristics of technique:
 
 **Automatism:** technique proceeds without the need for human decision-making, since technical results can be decided as a matter of mathematics, not judgment.
@@ -80,11 +88,11 @@ This allows Ellul to talk about technique in the abstract, instead of about spec
 
 &nbsp;
 
-> Just as hydroelectric installations take waterfalls and lead them into conduits, so the technical milieu absorbs the natural.
-We are rapidly approaching the time when there will be no longer any natural environment at all.
-When we succeed in producing artificial _aurorae boreales_, night will disappear and perpetual day will reign over the planet.
+> The tool enables man to conquer.
+But, man, dost thou not know there is no more victory which is thy victory?
+The victory of our days belongs to the tool.
 >
-> &mdash; p.79
+> &mdash; p.146
 
 &nbsp;
 
@@ -294,7 +302,7 @@ Only another technique is able to give efficient protection against the aggressi
 
 > Basically, the Soviets believe it necessary to discover not the individual's predestination but his adaptability.
 Vocational guidance then has the task of adapting the individual, through education, to planned manpower requirements.
-Vocational guidance is this subordinated to planning technique.
+Vocational guidance is thus subordinated to planning technique.
 >
 > &mdash; p.360
 
@@ -321,6 +329,10 @@ Yet it is apparently our fate to be facing a "golden age" in the power of sorcer
 
 &nbsp;
 
+In the closing pages of the book, Ellul indulges in a cathartic excoriation of the technicians who are not just structurally entombed in technique (as we all are), but who enthusiastically prophesy the coming liberation of humankind through its means.
 Though Ellul insists he is no pessimist, it would take a very generous reader to come to the same conclusion.
 His dialectic approach to his works might explain this; _La Technique_ presents the case for one side, which is compensated for in his other works of theology or social commentary.
-In the closing pages of the book, Ellul indulges in a cathartic excoriation of the technicians who are not just (like all of us) structurally entombed in technique, but who enthusiastically prophesy the coming liberation of humankind through its means.
+
+Ellul was in some ways content to witness and proclaim the technical reality as he saw it.
+But he also acted throughout his life to challenge it, and to promote human flourishing and adventure.
+I hope his words and ideas might inspire us to similar reflection and passionate action.
