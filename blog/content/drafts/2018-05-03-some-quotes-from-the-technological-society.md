@@ -10,55 +10,17 @@ slug: some-quotes-from-the-technological-society
 featured: true
 ---
 
-&nbsp;
-
-> I am keenly aware that I am myself involved in technological civilisation, and that its history is also my own.
->
-> &mdash; p.xxvii
-
-&nbsp;
-
-The enormous engine reaches critical temperature and explodes, dousing its operators in scalding steam.
-They are thrown from its storeys-high walkways, or stagger away desperately trying to free themselves from clothes melting to their bodies.
-
-["Moloch!"](https://en.wikipedia.org/wiki/Moloch) cries Freder, the young protagonist of Fritz Lang's 1927 _Metropolis_, as he witnesses the horror of the accident.
-He imagines the engine transformed into a huge demonic face, legions of workers marched to its maw to be sacrificed to the pounding wheels and pistons within.
-The real horror, Jacques Ellul would have argued, was not the accident, but what Freder observed immediately before it.
-
-&nbsp;
-
 <center>
   <video style="width: 100%; max-width: 480px;" autoplay loop muted preload="auto" src="/images/moloch-machine.mp4"></video>
 </center>
 
-&nbsp;
+Do you remember this scene from _Metropolis_?
+It is famous for the explosion that happens shortly the above clip.
+The young protagonist Freder has a vision of a ravenous machine-god eating ranks of proletariat workers.
+"Moloch!" he cries, and faints.
 
-Ranks of working-class machine operators move in a precisely choreographed dance, pulling levers and turning wheels with a rhythmic tempo.
-They are almost indistinguishable from the rotating arms of the engine itself, seeming to actually be part of the mechanism.
-They remain human only biologically.
-In all other aspects, they have _become machines_.
-
-The engine functions flawlessly.
-
-By depicting humans whose existence is dictated with total precision by the needs and pace of the machine, Fritz Lang anticipated Ellul's masterpiece _La Technique_.
-In the book, Ellul explores how _technique_ develops in the modern world.
-Technique, Ellul argued, is not mere technology.
-Technique is the rational maximisation of efficiency in _all areas of human action_.
-
-It resembles an ideology more than an artefact---though calling it an ideology would imply that humans consciously thought it up and promoted it.
-As Ellul sees it, technique obeys only its own internal logic and process of development.
-As it does so, it is transforming the whole of society in ways that seem inevitable and disastrous.
-
-I think his ideas are valuable as relevant now as they were 60 years ago.
-For this reason I'd like to explore them
-Any technologist who is serious about considering the social and ethical impact of their work should be familiar with the formidable force that is _la technique_.
-
-(All quotes below are taken from John Wilkinson's 1964 translation.
-Out of respect for Ellul's stance that "books are made to be read and not consulted," I have provided the name of the section each quote appears in, but no page references.)
-
-&nbsp;
-
-## On the nature of technique
+But until the explosion occurs, the machine runs flawlessly.
+Look at it: its operators 
 
 &nbsp;
 
@@ -68,19 +30,14 @@ Out of respect for Ellul's stance that "books are made to be read and not consul
 
 &nbsp;
 
-Ellul describes at length the history of technique, the way humans have used it over the centuries, and its growth into what we see today.
-He saw several distinct characteristics of technique:
+Why should we pay attention to what Ellul wrote over 60 years ago?
+I believe that any technologist who is serious about considering the social and ethical impact of their work should be familiar with the idea of technique.
+It is not enough to consider the impact of individual methods, devices, or technologies in isolation.
+In this interconnected world, technology enables and benefits from the integration of economies and societies.
+To think productively, we need a theory that accommodates, explains, and confronts this interconnectedness.
 
-**Automatism:** technique proceeds without the need for human decision-making, since technical results can be decided as a matter of mathematics, not judgment.
-
-**Self-augmentation:** once a technique has been employed, it swiftly necessitates the use of further techniques, either to mitigate any negative effects it has, or to fully exploit its beneficial effects.
-
-**Monism:** technique everywhere has a "single essence" despite the various ways it manifests concretely.
-This allows Ellul to talk about technique in the abstract, instead of about specific technologies or methods in the concrete.
-
-**Universalism:** as a result of technique's monism, technique acts to make all societies more uniform.
-
-**Autonomy:** technique refuses to consider or allow non-technical factors to enter into its operation, and it thereby creates a "new society" with a "new morality", its own new universe.
+Ellul's theory of technique does these things, and so I think it is an idea we should be conversant with.
+I hope that by examining Ellul's ideas in today's context, we can reinvigorate a useful critique not just of _this_ ride-hailing startup or _that_ social network, but the technical system that demands their existence.
 
 &nbsp;
 
@@ -88,15 +45,46 @@ This allows Ellul to talk about technique in the abstract, instead of about spec
 
 &nbsp;
 
-> The tool enables man to conquer.
-But, man, dost thou not know there is no more victory which is thy victory?
-The victory of our days belongs to the tool.
+> Technique transforms everything it touches into a machine.
 >
-> &mdash; p.146
+> &mdash; p.4
 
 &nbsp;
 
----
+Alarms cry out and overloaded gauges spin as the enormous engine reaches critical temperature and explodes, dousing its operators in scalding steam.
+They stagger away, desperately trying to free themselves from clothes melting to their bodies.
+["Moloch!"](https://en.wikipedia.org/wiki/Moloch) cries Freder as he witnesses the horror of the accident.
+
+The young protagonist of Fritz Lang's 1927 _Metropolis_ imagines the engine transformed into a huge demonic face.
+Platoons of workers march into its maw and are sacrificed to the pounding wheels and pistons within.
+It is a vision of humanity sacrificed to technology, a parable about the horror and devastation of mechanisation.
+
+But another, subtler, horror is also illuminated in that famous scene.
+In the moments before the accident, Freder observes the enormous machine in flawless operation, powering the city he lives in.
+Ranks of underclass machine operators move in a precisely choreographed dance, pulling levers and turning wheels with a rhythmic tempo.
+They are almost indistinguishable from the rotating arms of the engine itself, seeming to actually be part of the mechanism.
+They remain human only biologically: in all other aspects, they have _become machines_.
+
+&nbsp;
+&nbsp;
+
+## 1. The nature of technique
+
+&nbsp;
+
+> Technique transforms everything it touches into a machine.
+>
+> &mdash; p.4
+
+&nbsp;
+
+In his depiction of humans whose existence is totally dictated by the requirements and tempo of the machine, Fritz Lang anticipated Jacques Ellul's polemic masterpiece _La Technique_.
+The work explores the concept of _technique_, which Ellul argues is a vital, and almost entirely overlooked, determinant of the course of human history.
+
+Technique, as Ellul puts it, is the _rational maximisation of efficiency_ in _all areas_ of human action.
+Technique is not machinery; technique demands that humans _become machines_ in order to be efficient.
+In a technical world, most potently symbolised by the clock, humans are not the determiners of their own destiny, or even of their daily schedules.
+They are subjected and subordinated entirely to mechanisms far greater than themselves.
 
 &nbsp;
 
@@ -107,17 +95,10 @@ He does not make a choice of complex and, in some way, human motives.
 
 &nbsp;
 
----
 
 &nbsp;
 
-> To say of such a technical means that a bad use has been made of it is to say that no technical use has been made of it, that it has not been made to yield what it could have yielded and ought to have yielded.
->
-> &mdash; p.97
-
-&nbsp;
-
----
+## 2. The autonomy of technique
 
 &nbsp;
 
@@ -127,7 +108,35 @@ He does not make a choice of complex and, in some way, human motives.
 
 &nbsp;
 
-## On politics and the economy
+Ellul's technique resembles an ideology more than an artefact---though calling it an ideology would imply that humans consciously thought it up and promoted it.
+But in fact, technique is an almost-subconscious force in society, obeying its own internal logic.
+
+By refusing to consider factors that are not technical (i.e. immeasurable factors not relating to yield or efficiency), technique creates a new moral universe, separate from both traditional and modern humanistic ethics.
+This alone might pose little concern.
+But technique swiftly engenders itself: the introduction of efficiency in one place demands efficiency in adjacent areas, and so the technical moral universe expands.
+
+&nbsp;
+
+> To say of such a technical means that a bad use has been made of it is to say that no technical use has been made of it, that it has not been made to yield what it could have yielded and ought to have yielded.
+>
+> &mdash; p.97
+
+&nbsp;
+
+Let's consider Uber for a moment, since I have already hinted at it.
+Consider how we are told that our cars, sitting uselessly in driveways or parking lots, are assets that are not being used to their fullest extent.
+Technicians lament the wasted potential, the inefficient allocation of vehicles to people who are not currently using them.
+
+Now, there's not much to object to here.
+I do happen to think the world has too many cars, and their ubiquitous use and ownership has led to a variety of bad outcomes (two examples being pollution and vast fields of parking spaces).
+A more efficient system which allowed for fewer cars to be shared more efficiently seems like an obvious good.
+
+However, to drive this efficiency, we needed an Uber, a company which aggressively flouts regulation, shepherds workers into precarious employment, and can only be achieved by pervasive tracking of human movement.
+The technique of mass car production and ownership almost inevitably led to these further techniques of "gig economy" insecurity (rebranded by propaganda techniques as the "sharing economy") and GPS surveillance.
+
+&nbsp;
+
+## 3. Technique encounters the state
 
 &nbsp;
 
@@ -138,6 +147,26 @@ It is an enterprise which ought to be profitable, yield a maximum of efficiency,
 > &mdash; p.264
 
 &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## On politics and the economy
 
 In the largest portion of the work, Ellul walks the reader through the consequences of the technical development of the economy and the state.
 His perspective, from the midst of the Cold War, seems foreign to a generation born without the distant shadow of the USSR.
@@ -335,4 +364,16 @@ His dialectic approach to his works might explain this; _La Technique_ presents 
 
 Ellul was in some ways content to witness and proclaim the technical reality as he saw it.
 But he also acted throughout his life to challenge it, and to promote human flourishing and adventure.
-I hope his words and ideas might inspire us to similar reflection and passionate action.
+  I hope his words and ideas might inspire us to similar reflection and passionate action.
+
+---
+
+All quotes in this article are taken from John Wilkinson's 1964 translation.
+Out of respect for Ellul's stance that "books are made to be read and not consulted," I have provided the name of the section each quote appears in, but no page references.
+
+
+> I am keenly aware that I am myself involved in technological civilisation, and that its history is also my own.
+>
+> &mdash; p.xxvii
+
+&nbsp;

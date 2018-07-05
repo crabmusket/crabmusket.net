@@ -19,3 +19,11 @@ pods.crabmusket.net {
 		transparent
 	}
 }
+
+secrets.crabmusket.net {
+	tls admin@crabmusket.net
+	gzip
+	proxy / localhost:4000 {
+		transparent
+	}
+}
