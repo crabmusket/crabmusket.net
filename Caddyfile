@@ -27,3 +27,11 @@ secrets.crabmusket.net {
 		transparent
 	}
 }
+
+fathom.crabmusket.net {
+	tls admin@crabmusket.net
+	gzip
+	proxy / localhost:5000 {
+		transparent
+	}
+}
