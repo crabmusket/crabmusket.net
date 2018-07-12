@@ -3,7 +3,6 @@ date: 2014-06-29T00:00:00Z
 tags: torque jams
 title: 'Monster Mash: entry #0'
 slug: monster-mash-entry-0
-featured: true
 ---
 
 The first day of my [Monster Mash][] attempt has ended with some fortunate progress.

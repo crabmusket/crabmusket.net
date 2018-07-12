@@ -3,7 +3,6 @@ date: 2014-07-01T00:00:00Z
 tags: torque jams
 title: 'Monster Mash: entry #1'
 slug: monster-mash-entry-1
-featured: true
 ---
 
 Welcome one, welcome all to my second [Monster Mash][] jam log.
