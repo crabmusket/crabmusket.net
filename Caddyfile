@@ -41,5 +41,6 @@ mmp.crabmusket.net {
 	gzip
 	proxy / localhost:8065 {
 		transparent
+		websocket
 	}
 }
