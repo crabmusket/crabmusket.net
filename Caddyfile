@@ -35,3 +35,11 @@ fathom.crabmusket.net {
 		transparent
 	}
 }
+
+mmp.crabmusket.net {
+	tls admin@crabmusket.net
+	gzip
+	proxy / localhost:8065 {
+		transparent
+	}
+}
