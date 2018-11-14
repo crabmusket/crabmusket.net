@@ -17,12 +17,12 @@ Its operators are doused in scalding steam, and they stagger away, desperately t
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CPNaaogT8fs" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 </figure>
 
-["Moloch!"](https://en.wikipedia.org/wiki/Moloch) cries Freder as he witnesses the devastation of the industrial accident.
-The film's young protagonist, fainting, imagines the engine transformed into a huge demonic face.
+["Moloch!"](https://en.wikipedia.org/wiki/Moloch) cries Freder, the film's young protagonist, as he witnesses the devastating industrial accident.
+Fainting, he imagines the engine transformed into a huge demonic face.
 Platoons of workers march into its maw and are dashed on pounding wheels and pistons within.
-It is an allegory of humanity sacrificed to technology, a parable about the horror of mechanisation.
+It is an allegory for the sacrifice of humanity to technology, a parable about the horror of mechanisation.
 
-We miss the _subtler_ horror depicted in that famous scene.
+But we miss the _subtler_ horror depicted in that famous scene.
 
 In the moments before the accident, Freder observes the enormous machine in flawless operation, powering the city he lives in.
 Ranks of underclass machine operators move in a precisely choreographed dance, pulling levers and turning wheels with a rhythmic tempo.
@@ -34,8 +34,8 @@ Only when accidentally maimed by the explosion do they regain their human charac
   <video style="width: 100%; max-width: 480px;" autoplay loop muted preload="auto" src="/images/moloch-machine.mp4"></video>
 </figure>
 
-In depicting humans whose existence is totally dictated by the requirements and tempo of the machine, Fritz Lang's 1927 _Metropolis_ anticipates Jacques Ellul's 1954 polemic masterpiece _La Technique_.
-The book explores Ellul's concept of _technique_, which he argues is a vital, and almost entirely overlooked, determinant of the development of human society.
+By depicting humans whose existence is totally dictated by the requirements and tempo of the machine, Fritz Lang's 1927 _Metropolis_ anticipates Jacques Ellul's 1954 polemic masterpiece _La Technique_.
+The book explores Ellul's concept of _technique_, which he argues is a vital, yet almost completely overlooked, force in human history and our collective future.
 
 In this article, I'll attempt to lay out what I see as the most important parts of Ellul's thesis.
 I hope to make his insights more accessible and widely known among my colleagues and friends.
