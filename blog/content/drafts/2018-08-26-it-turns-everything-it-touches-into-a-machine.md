@@ -20,15 +20,15 @@ Its operators are doused in scalding steam, and they stagger away, desperately t
 ["Moloch!"](https://en.wikipedia.org/wiki/Moloch) cries Freder, the film's young protagonist, as he witnesses the devastating industrial accident.
 Fainting, he imagines the engine transformed into a huge demonic face.
 Platoons of workers march into its maw and are dashed on pounding wheels and pistons within.
-It is an allegory for the sacrifice of humanity to technology, a parable about the horror of mechanisation.
 
-But we miss the _subtler_ horror depicted in that famous scene.
+It is an allegory for the sacrifice of humanity to technology, a parable about the horror of mechanisation.
+But there is a _subtler_ horror depicted in that famous scene.
 
 In the moments before the accident, Freder observes the enormous machine in flawless operation, powering the city he lives in.
 Ranks of underclass machine operators move in a precisely choreographed dance, pulling levers and turning wheels with a rhythmic tempo.
 They are almost indistinguishable from the rotating arms of the engine itself, seeming to actually be part of the mechanism.
 They remain human only biologically: in all other aspects, they have _become machines_.
-Only when accidentally maimed by the explosion do they regain their human characteristics.
+Only after being accidentally maimed by the explosion do they regain their humanity.
 
 <figure>
   <video style="width: 100%; max-width: 480px;" autoplay loop muted preload="auto" src="/images/moloch-machine.mp4"></video>
