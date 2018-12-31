@@ -46,8 +46,6 @@ On the back of a recent swell of interest in stoic philosophy among the startup 
 I read one of the oldest available translations from Project Gutenberg, which by turns frustrated me with its verbosity and won me over with its occasional beauty.
 
 > "The cause of the universe is as it were a strong torrent, it carrieth all away."
->
-> <footer>&mdash; from the ninth book</footer>
 
 In the end, I found the book more interesting for historical reasons than philosophical ones.
 There were a few helpful aphorisms to remember, a handful of pieces of advice I decided to try to take on and implement in my own life.
@@ -68,14 +66,11 @@ In a leader, I can only see this as a flaw.
 I had been looking forward to this book, both as a modern classic and as a work from a non-Western writer.
 I found myself disappointed by it, sadly.
 
-While the latter half of the book introduces some mind-bendingly large scientific concepts that I enjoyed on the technical level, I couldn't get past the sense of nihilism that pervaded the story.
-From the main character's seeming lack of emotional response to the events around him, to other characters' explicit hopelessness, to the creation and destruction of entire universes in the course of scientific experiments, I found the environment bleak.
+While the latter half of the book introduces some mind-bendingly large scientific concepts that I enjoyed, I couldn't get past the sense of nihilism that pervaded the story.
+From the main character's seeming lack of emotional response to the events around him, to other characters' explicit hopelessness, to the creation and destruction of entire universes in the course of scientific experiments, I found the atmosphere bleak.
+
 I do tend to enjoy works that are bleak or melancholy, as long as they have some grounding in characters who I care about, and characters who can have fun and joy even amidst what's going on in the broader strokes of the narrative.
 I didn't find that here.
-
-<figure>
-  <img src="/images/three_body_problem.gif" alt="A 2D animated simulation of three bodies">
-</figure>
 
 The creativity and thoughtfulness behind concepts like the atom spun out into a light-seconds-long ribbon tickled my imagination.
 The same incisive writing created a razor-sharp sense of danger from the antagonists, which must have contributed to my feeling of the story's bleakness.
@@ -100,8 +95,6 @@ Technique is separate from technology, despite the book's English title:
 > "The machine is deeply symptomatic: it represents the ideal toward which technique strives.
 The machine is solely, exclusively, technique; it is pure technique, one might say.
 For, wherever a technical factor exists, it results, almost inevitably, in mechanization: technique transforms everything it touches into a machine."
->
-> <footer>&mdash; from The Technological Society, &ldquo;Situating the technical phenomenon&rdquo;</footer>
 
 As I worked through the dense chapters, I was regularly amazed by Ellul's writing, frustrated by his vague citation, terrified that he was making it all up, and on occasion I laughed out loud at his audacity*.
 But consistently, I felt like I was learning something _true_, something fundamental about the world.
@@ -113,8 +106,6 @@ Even when that is not explicitly stated, the technology industry in general and 
 > "The human being is no longer in any sense the agent of choice ...
 > He is a device for recording effects and results obtained by various techniques.
 > He does not make a choice of complex and, in some way, human motives.
->
-> <footer>&mdash; from &ldquo;Citation needed&rdquo;</footer>
 
 The book inspired me to think differently about technology, and to recognise technique in non-technological areas.
 It is my favourite book of the year, and I know it will stay with me for the rest of my life.
@@ -125,8 +116,6 @@ But if you are a technologist who is interested in the interaction between techn
 > "The tool enables man to conquer.
 > But, man, dost thou not know there is no more victory which is thy victory?
 > The victory of our days belongs to the tool."
->
-> <footer>&mdash; from &ldquo;Needs citation&rdquo;</footer>
 
 <small><em>
 *The detailed discussion of techniques of magic, in particular, was as illuminating as it was absurd.
@@ -139,7 +128,7 @@ I feel bad for not having a stronger reaction to this book.
 It was _excellently_ written; Coates' combination of memoir, history, social study and reporting was personal, authoritative and engaging.
 In combination with Scene On Radio's [Seeing White](http://www.sceneonradio.org/seeing-white) series, which I had listened to late in 2017, it was an eye-opening and devastating lesson on how race works in America.
 
-While the challenges of black Americans aren't the same as those of Australia's first people, this book begun the process that would be continued in [Terra Nullius](#terra-nullius-by-claire-g-coleman), and which I hope to continue further in 2019.
+While the challenges of black Americans aren't the same as those of Australia's first people, this book begun my process of learning that would be continued in [Terra Nullius](#terra-nullius-by-claire-g-coleman), and which I hope to continue further in 2019.
 
 ## Jonathan Strange & Mr Norrell **_by Susanna Clarke_**
 
@@ -158,16 +147,19 @@ Aside from the charming prose, the enthralling plot, and the historical asides p
 
 Having grown up playing video games, I'm used to magic being a _system_.
 To serve the needs of gameplay, video game magic must be learnable and manipulable.
-The "magic" in some of Ted Chiang's excellent [short stories](#stories-of-your-life-and-others-by-ted-chiang) is similarly treated as just a different type of natural science: it has rules that are discoverable and exploitable.
+The "magic" in some of Ted Chiang's excellent [short stories](#stories-of-your-life-and-others-by-ted-chiang) is similarly treated as just another type of natural science: it has rules that are discoverable and exploitable.
+Even some of my favourite magic, the elemental "bending" in the Avatar animated series, is explicitly likened to the martial arts: skills that require improvement, discipline and structured study.
 
 Clarke's magic seems, by contrast, to _resist_ to any kind of [technique](#the-technological-society-by-jacques-ellul) that might tame it.
 It's mysterious, temperamental, almost anthropomorphic, tied as it is to nature and the fickle Faeries.
-The bookish Norrell _could_ have exemplified a scientific approach to the study of magic.
 
+The bookish Norrell _could_ have exemplified a scientific approach to the study of magic.
 But in Clarke's world, the study of magic through books only makes it tedious, not more understandable.
-Strange's reckless, intuitive approach is no better---it's just as impenetrable to most people as the years-long study program Norrell sets out.
-Until Strange unleashes it upon England to be used by all---theoretical magicians, ordinary children, ministers and vagabonds alike.
-Nothing could be more contrary to a rigorous scientific discipline, when science is characterised by the discovery of techniques that can be employed, but not understood or created, by the masses.
+
+Strange's reckless, intuitive approach is no better; it's just as impenetrable to most people as the years-long study program Norrell sets out.
+Until, of course, Strange returns it to England to be used by all: theoretical magicians, children, ministers and vagabonds alike.
+
+Neither approach is anything like a rigorous scientific discipline, allowing Clarke's universe to be truly _magical_.
 
 ## This Census-Taker **_by China Miéville_**
 
