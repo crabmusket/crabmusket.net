@@ -377,7 +377,7 @@ But this is all in small text because in the end, it doesn't matter that much.
 [Psalters](https://psalters.bandcamp.com) might be the cause of my growing interest in historical radicals.
 (Have a listen to Diggers All, embedded below, if you want to be similarly inspired.
 Or if you just want to hear some excellent folk-punk from an inspiring band.)
-On the back of a couple of articles about them early in the year, I decided to find out a little more about this much-maligned group of labour agitators.
+On the back of a couple of articles about the Luddites early in the year, I decided to find out a little more about this much-maligned group of labour agitators.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=826968881/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=738642852/transparent=true/" seamless><a href="http://psalters.bandcamp.com/album/ch-vii-carry-the-bones">ch. VII  carry the bones by psalters</a></iframe>
 
