@@ -170,7 +170,7 @@ When humans encounter problems caused by the application of technique (whether s
 The most classic example may be the creation of coal-fired steam engines which initiated the Western industrial revolution.
 Coal-fired engines were originally used at coal mines to increase the efficiency of mining by pumping water out of the shafts.
 They ran off the coal they helped unearth; co-locating the production and use of the fuel enabled cost-efficiency.
-These engines performed to marvellously efficiently that coal became economic enough to use not just at the mines themselves, but to replace wood as the fuel of choice _throughout the economy_.
+These engines performed so marvellously efficiently that coal became economic enough to use not just at the mines themselves, but to replace wood as the fuel of choice _throughout the economy_.
 
 Centuries later, the most significant debate in humanity's response to climate change is over [the role of geoengineering](https://www.jacobinmag.com/2018/10/geoengineering-climate-change-environmental-impacts-warming).
 Should we, for example, seed the upper atmosphere with microparticles to negate the warming caused by our extractive energy industry?
