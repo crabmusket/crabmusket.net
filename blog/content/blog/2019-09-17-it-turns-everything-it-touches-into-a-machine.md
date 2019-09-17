@@ -3,9 +3,9 @@ date: 2019-09-17T10:50:24Z
 tags: [technique, technology, jacques ellul, philosophy, academic]
 title: It turns everything it touches into a machine
 description: Jacques Ellul's powerful commentary on technology is as relevant today as it was 60 years ago.
-image: 'https://crabmusket.net/images/technique-quotes.jpg'
+image: 'https://crabmusket.net/images/moloch-machine.jpg'
 image-width: 620
-image-height: 460
+image-height: 320
 slug: it-turns-everything-it-touches-into-a-machine
 featured: true
 ---
