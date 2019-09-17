@@ -120,7 +120,30 @@ These means are also applied oppressively to the human workers who are a necessa
 Almost any form of factory or mass production immediately fits this description.
 The examples more familiar to us in the wealthy West are subtler.
 
-When trying to discern the presence of technique in history or the modern world---whether in order to test Ellul's theory or to apply his recommendations---I think the following thematic questions are helpful:
+<figure>
+  <video style="width: 100%; max-width: 320px;" loop muted src="https://video.twimg.com/ext_tw_video/1155812587264720897/pu/vid/368x640/DirM6ZP5Vz8SA3wD.mp4?tag=10"></video>
+</figure>
+
+<!-- https://twitter.com/farbodsaraf/status/1170849368301326336 -->
+
+When trying to discern the effect of technique in history or the modern world, I think the following thematic questions are helpful:
+
+#### Is human behaviour controlled to suit technical requirements?
+
+Technique channels human behaviour in ways that can be breathtakingly totalitarian, such as in times of total war.
+It also shapes us in mundane ways, as ubiquitous as the voluntary caging of humans in gym exercise machines to efficiently produce targeted "health" outcomes.
+
+The on-demand economy is a grand experiment in both modifying human work schedules to suit capital requirements, and psychologically adapting the workers to the new system.
+In order that supply and demand be efficiently matched, algorithms tweak economic variables and incentives.
+Workers nominally have a "choice" of the schedules they work, but on aggregate must be manipulated for the system to function.
+
+But technique does not only act through technology---these new platforms act in the realm of policy as well.
+By skirting (or lobbying to actually change) employment and other regulations, on-demand economy companies strive to make labour markets efficient.
+The technical equation of efficiency they use does not yet incorporate all aspects of human happiness.
+Most obviously, the worker's need for job security is entirely ignored in favour of an [imagined desire](https://theconversation.com/young-people-are-not-after-an-easy-ride-just-job-security-64494) for flexibility.
+Until the equation can expand to technicise social factors, on-demand economy companies will face resistance and criticism for creating an alienated _precariat_ of temporary workers.
+
+_Technique demands that humans become as efficient as machines._
 
 #### Is human judgement replaced by automatic (e.g. algorithmic) judgement?
 
@@ -140,24 +163,7 @@ Gabbie Stroud, a former teacher, [described her experience](http://www.abc.net.a
 "you as a professional know very, very clearly what is best for your students and the direction you should take them in, and you are told again and again to go in another direction."
 Educational technique does not, _can_ not, value or trust the individual professional standards of teachers.
 
-Technique, as we have seen, only allows technical judgements and motivations.
-
-#### Is human behaviour modified to suit technical requirements?
-
-Technique channels human behaviour in ways that can be breathtakingly totalitarian, such as in times of total war.
-It also shapes us in mundane ways, as ubiquitous as the voluntary caging of humans in gym exercise machines that efficiently produce targeted "health" outcomes.
-
-The on-demand economy is a grand experiment in both modifying human work schedules to suit capital requirements, and psychologically adapting the workers to the new system.
-In order that supply and demand be efficiently matched, algorithms tweak economic variables and incentives.
-Workers nominally have a "choice" of the schedules they work, but on aggregate must be manipulated for the system to function.
-
-But technique does not only act through technology---these new platforms act in the realm of policy as well.
-By skirting (or lobbying to actually change) employment and other regulations, on-demand economy companies strive to make labour markets efficient.
-The technical equation of efficiency they use does not yet incorporate all aspects of human happiness.
-Most obviously, the worker's need for job security is entirely ignored in favour of an [imagined desire](https://theconversation.com/young-people-are-not-after-an-easy-ride-just-job-security-64494) for flexibility.
-Until the equation can expand to technicise social factors, on-demand economy companies will face resistance and criticism for creating an alienated _precariat_ of temporary workers.
-
-Technique, as we have seen, must make humans an efficient part of its all-encompassing mechanism.
+_Technique only permits technical judgements and motivations._
 
 #### Does a solution enable, or demand, further technical solutions?
 
@@ -176,7 +182,7 @@ According to technical experts, this is the only admissible solution.
 Technique has created the conditions for global climate change by excluding moral factors like sustainability from its calculus.
 It now offers a solution that enables us to keep ignoring these factors.
 
-Technique, as we have seen, expands its own moral universe at the expense of any other.
+_Technique expands its own moral universe at the expense of any other._
 
 ## Benediction
 
