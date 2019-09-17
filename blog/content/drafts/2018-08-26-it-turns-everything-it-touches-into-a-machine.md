@@ -145,7 +145,8 @@ _Technique demands that humans become as efficient as machines._
 
 There has been, in recent decades, [an assault](https://www.economist.com/books-and-arts/2011/10/29/not-so-smart-now) on our understanding of the quality of our own judgement.
 This vital research has coincided with the appearance of more efficient and widespread means than ever before for _replacing_ human decision-making: electronic computers.
-In many situations this produces a good outcome, but Ellul's concern is for the effect on humans within the now-efficient system.
+The replacement of human judgement may have [deep benefits](https://www.cnet.com/news/amazon-go-avoid-discrimination-shopping-commentary) for those who have been victims of the ugly side of human bias and bigotry.
+But Ellul's concern is for the effect on humans within the now-efficient system.
 
 Standardised testing in education demonstrates the replacement of human judgement and a concern only for technical factors.
 Standardised education regimes make grading uniform across all students and locations, and some even attempt to automate it entirely.
@@ -180,7 +181,7 @@ It now offers a solution that enables us to keep ignoring these factors.
 
 _Technique expands its own moral universe at the expense of any other._
 
-## Benediction
+## The hand that feeds
 
 From Ellul's pessimistic outlook (and my own techno-scepticism if you know me personally), you might take away the message that technique is a force to be feared, rejected, and fought against.
 Unfortunately, the situation is not that simple; techniques help us achieve our goals, outcomes which themselves may be clearly good.
@@ -190,8 +191,7 @@ Unfortunately, the situation is not that simple; techniques help us achieve our 
 > <footer>&mdash; &ldquo;Technique and constitution&rdquo;</footer>
 
 The examples above, while demonstrating the existence and operation of techniques, cannot be said to be unequivocally _bad_.
-They may be flawed, but they are all genuine attempts to solve complex problems.
-The replacement of human judgement may have [deep benefits](https://www.cnet.com/news/amazon-go-avoid-discrimination-shopping-commentary) for those who have been victims of the ugly side of human judgement.
+They may be flawed, but they are genuine, and often successful, attempts to solve complex problems.
 
 Why should we pay attention to what Ellul wrote over 60 years ago?
 I believe that any maker of technology who is serious about considering the social and ethical impact of their work should be familiar with the idea of technique.
