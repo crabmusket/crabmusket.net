@@ -120,10 +120,6 @@ These means are also applied oppressively to the human workers who are a necessa
 Almost any form of factory or mass production immediately fits this description.
 The examples more familiar to us in the wealthy West are subtler.
 
-<figure>
-  <video style="width: 100%; max-width: 320px;" loop muted src="https://video.twimg.com/ext_tw_video/1155812587264720897/pu/vid/368x640/DirM6ZP5Vz8SA3wD.mp4?tag=10"></video>
-</figure>
-
 <!-- https://twitter.com/farbodsaraf/status/1170849368301326336 -->
 
 When trying to discern the effect of technique in history or the modern world, I think the following thematic questions are helpful:
