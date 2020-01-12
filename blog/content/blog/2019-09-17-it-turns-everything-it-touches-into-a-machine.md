@@ -14,7 +14,7 @@ Alarms cry out, overloaded gauges spin, the enormous engine reaches critical tem
 Its operators are doused in scalding steam, and they stagger away, desperately trying to free themselves from clothes melting to their bodies.
 
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/CPNaaogT8fs" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6ZpaWOLjWx0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 </figure>
 
 ["Moloch!"](https://en.wikipedia.org/wiki/Moloch) cries Freder, the film's young protagonist, as he witnesses the devastating industrial accident.
