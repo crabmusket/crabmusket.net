@@ -4,9 +4,9 @@ tags: [books]
 title: Wabi concrete box
 description: The future sustainability of our built environment depends on our attitude towards the land.
 slug: wabi-concrete-box
-# image: 'https://crabmusket.net/images/sunset_over_gormenghast.jpg'
-# image-width: 800
-# image-height: 525
+image: 'https://crabmusket.net/images/wabi-concrete-box.jpg'
+image-width: 800
+image-height: 450
 featured: true
 ---
 
@@ -136,3 +136,5 @@ Alexander says later in the same interview:
 That _wabi_ concrete box will not exist in a vacuum.
 It will be part of an ecology of earth, land, neighbours, social structures and regulation.
 It cannot ignore any of them if it is to have the chance to exist, to survive, and to thrive.
+
+_Social media sharing image by [Balazs Busznyak on Unsplash](https://unsplash.com/photos/YDkiFaT9KOo)_
